@@ -46,6 +46,9 @@ body {
 /*
  * Navbar
  */
+.navbar {
+  background-color: rgb(87, 179, 228);
+}
 
 .navbar-brand {
   padding-top: .75rem;
@@ -75,6 +78,10 @@ body {
   box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
 }
 
+/*
+ * Footer
+ */
+
 .footer {
   position: fixed;
   left: 0;
@@ -82,7 +89,7 @@ body {
   width: 100%;
   padding-top: 1rem;
   text-align: center;
-  background-color: rgba(220, 220, 220, 1);
+  background-color: rgb(221, 238, 220);
   z-index: 200;
 }
 
