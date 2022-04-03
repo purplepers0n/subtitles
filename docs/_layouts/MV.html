@@ -1,0 +1,8 @@
+---
+layout: main
+---
+
+<h1>{{ page.title }}</h1>
+<p>{{ page.description }}</p>
+{% capture MV %}{% include MV/{{ page.MV }}.html %}{% endcapture %}
+{{ MV }}
