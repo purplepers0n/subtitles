@@ -1,12 +1,6 @@
-# YouTube External Subtitle
+# Welcome to ArchiveForJAM's External YouTube Subtitle Player!
 
-[![License - MIT](https://img.shields.io/badge/license-MIT-blue)](https://img.shields.io/badge/license-MIT-blue)
-[![Build - Passing](https://img.shields.io/badge/build-passing-brightgreen)](https://img.shields.io/badge/build-passing-brightgreen)
-[![Coverage - 100%](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://img.shields.io/badge/coverage-100%25-brightgreen)
-
-According to YouTube's [policy](http://support.google.com/youtube/answer/2734796?hl=en), only the owner of the content can add subtitle to a video.
-
-With YouTube External Subtitle you can display subtitles over the embedded video from YouTube on your site. These texts could be translations, comments or lyrics as well. (Any kind of texts is allowed)
+This allows JO1's YouTube videos to be viewed with English subtitles, while counting the views directly to the original official video!
 
 ## GITHUB
 
