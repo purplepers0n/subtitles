@@ -2,11 +2,11 @@
 
 This allows JO1's YouTube videos to be viewed with English subtitles, while counting the views directly to the original official video!
 
-## GITHUB
+## Original Repository source
 
 [http://github.com/siloor/youtube.external.subtitle](http://github.com/siloor/youtube.external.subtitle)
 
-Please, don't forget to star the repository if you like (and use) the script. This will let me know how many users it has and then how to proceed with further development.
+Please visit this link for the original repository and more details of its usage.
 
 ## Making subtitles
 
@@ -15,18 +15,6 @@ If you'd like to make subtitle for a video, there are a lot of tools helping you
 - YouTube has an automatic english speech recognition logic, that does a really good job and makes only a few mistakes. Its a very big help by timing the subtitles.
 - On [DownSub.com](http://downsub.com/) you can download the subtitles from YouTube as an SRT file.
 - There are a lot of good open source SRT editors out there.
-
-## Examples
-
-- [Basic example](http://siloor.github.io/youtube.external.subtitle/examples/basic/)
-- [Load an SRT file](http://siloor.github.io/youtube.external.subtitle/examples/srt/)
-- [More subtitles](http://siloor.github.io/youtube.external.subtitle/examples/moresubtitles/)
-- [More SRT subtitles](http://siloor.github.io/youtube.external.subtitle/examples/moresrtsubtitles/)
-- [More SRT subtitles by more videos](http://siloor.github.io/youtube.external.subtitle/examples/moresrtsubtitlesmorevideos/)
-- [Style subtitles](http://siloor.github.io/youtube.external.subtitle/examples/style/)
-- [Fullscreen](http://siloor.github.io/youtube.external.subtitle/examples/fullscreen/)
-- [Responsive](http://siloor.github.io/youtube.external.subtitle/examples/responsive/)
-- [Custom render method](http://siloor.github.io/youtube.external.subtitle/examples/customrendermethod/)
 
 ## Limitations
 
