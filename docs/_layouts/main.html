@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>JAMSUBS</title>
+  <title>ArchiveForJAM Player</title>
   <base href="{{ page.basehref }}" />
   <link rel="shortcut icon" href="static/img/favicon/favicon.ico" type="image/x-icon" />
   <link rel="icon" href="static/img/favicon/favicon_32.png" sizes="32x32" />
@@ -12,15 +12,16 @@
   <link rel="icon" href="static/img/favicon/favicon_144.png" sizes="144x144" />
   <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="static/css/index.css" rel="stylesheet">
+  <style>main {height: 60vh}</style>
 </head>
 <body>
-<nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
-  <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3" href="./">JAMSUBS</a>
+<nav class="navbar navbar-dark sticky-top flex-md-nowrap p-0">
+  <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3" href="./"><img src="static/img/headerlogo.png" style="height: 30px;"></a>
   <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-toggle="collapse" data-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 </nav>
-<div class="container-fluid">
+<div class="container-fluid" style='padding-bottom: 96px; margin-bottom: 96px;'>
   <div class="row">
     <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
       <div class="sidebar-sticky pt-3">
@@ -29,12 +30,20 @@
             <a class="nav-link" href="./">Home</a>
           </li>
         </ul>
-        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
-          <span>Examples</span>
+        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-3 mb-1 text-muted">
+          <span>JO1 Official MV</span>
         </h6>
         <ul class="nav flex-column mb-2">
           <li class="nav-item">
-            <a class="nav-link" href="./examples/dreamer/">Dreamer MV</a>
+            <a class="nav-link" href="./video/dreamer/">Dreamer MV</a>
+          </li>
+        </ul>
+        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-3 mb-1 text-muted">
+          <span>J-LOG</span>
+        </h6>
+        <ul class="nav flex-column mb-2">
+          <li class="nav-item">
+            <a class="nav-link" href="./video/jlog-sho/">Yonashiro Sho</a>
           </li>
         </ul>
       </div>
@@ -43,6 +52,13 @@
       {{ content }}
     </main>
   </div>
+</div>
+<div class="footer">
+  <p>
+    Site made by <a href="https://twitter.com/cshinjam" target="_blank" rel="noopener noreferrer">SHIN</a>, supported by <a href="https://twitter.com/ArchiveforJAM" target="_blank" rel="noopener noreferrer">ArchiveForJAM.</a><br>
+    Support JO1 by subscribing to their <a href="https://www.youtube.com/c/JO1_official" target="_blank" rel="noopener noreferrer">official YouTube channel</a>!<br>
+    Big thank you to Siloor who created the original <a href="https://github.com/siloor/youtube.external.subtitle" target="_blank" rel="noopener noreferrer">youtube.external.subtitle</a> codebase and scripts!
+  </p>
 </div>
 <script src="static/vendor/jquery/jquery-3.5.1.slim.min.js"></script>
 <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
