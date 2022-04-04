@@ -14,9 +14,8 @@ body {
   bottom: 0;
   left: 0;
   z-index: 100; /* Behind the navbar */
-  padding: 48px 0 0; /* Height of navbar */
+  padding: 48px 0 96px; /* Height of navbar & footer */
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
-  background-color: rgb(221, 238, 220);
 }
 
 .sidebar-sticky {
@@ -92,6 +91,7 @@ body {
   height: 96px;
   padding: 1rem 0rem;
   text-align: center;
+  background-color: rgb(221, 238, 220);
   z-index: 200;
 }
 
