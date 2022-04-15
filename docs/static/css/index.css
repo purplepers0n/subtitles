@@ -1,6 +1,15 @@
+@font-face {
+    font-family: 'latoregular';
+    src: url('lato-regular-webfont.woff2') format('woff2'),
+         url('lato-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   font-size: .875rem;
-  font-family: 'Lato', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'latoregular', 'Helvetica', 'Arial', sans-serif;
   color: #3A506B;
   overflow-y: auto;
 }
