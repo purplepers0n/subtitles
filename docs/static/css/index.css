@@ -121,7 +121,7 @@ body {
 }
 
 /*
- * button
+ * video page
  */
 
  .button-1 {
@@ -154,6 +154,18 @@ body {
  .button-1:hover,
  .button-1:focus {
    background-color: #3f86b5;
+ }
+
+ .translatorlink {
+   color: #68b3e4;
+ }
+
+ .videotitle:after{
+   color: #68b3e4;
+   content: "";
+   flex: 1 1;
+   border-bottom: 1px solid;
+   margin: 0 1.5rem;
  }
 
 /*
