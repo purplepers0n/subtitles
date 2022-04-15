@@ -110,7 +110,10 @@ body {
 
 .footerlink {
   color: #FF7070;
-  text-decoration: none;
+}
+
+.footerlink:hover {
+  color: #CB4B4B;
 }
 
 /*
