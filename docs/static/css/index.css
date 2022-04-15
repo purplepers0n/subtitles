@@ -48,14 +48,11 @@ body {
 }
 
 .sidebar-heading:after {
-  background-color: #FFADAD;
+  color: #FFADAD;
   content: "";
-  display: inline-block;
-  height: 1px;
-  position: relative;
-  vertical-align: middle;
-  width: 50%;
-  left: 1em;
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: 0 1.5rem;
 }
 
 /*
@@ -106,8 +103,14 @@ body {
   padding: 1rem 0rem;
   font-size: 0.8rem;
   text-align: center;
-  background-color: rgb(221, 238, 220);
+  background-color: #FFD6D6;
+  color: #3A506B;
   z-index: 200;
+}
+
+.footerlink {
+  color: #FF7070;
+  text-decoration: none;
 }
 
 /*
