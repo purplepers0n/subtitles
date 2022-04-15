@@ -44,8 +44,21 @@ body {
 .sidebar-heading {
   font-size: .75rem;
   text-transform: uppercase;
-  color: #002642;
+  color: #FF6B6B;
 }
+
+.sidebar-heading:after {
+  background-color: #000;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+  left: 0.5em;
+  margin-right: -50%;
+}
+
 
 /*
  * Navbar
