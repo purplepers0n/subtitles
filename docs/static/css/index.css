@@ -48,15 +48,15 @@ body {
 }
 
 .sidebar-heading:after {
-  background-color: #000;
+  background-color: #FFADAD;
   content: "";
   display: inline-block;
   height: 1px;
   position: relative;
+  vertical-align: middle;
   width: 50%;
-  left: 0.5em;
+  left: 1em;
 }
-
 
 /*
  * Navbar
