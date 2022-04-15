@@ -26,7 +26,6 @@ body {
   z-index: 100; /* Behind the navbar */
   padding: 48px 0 96px; /* Height of navbar & footer */
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
-  width: 14vw;
 }
 
 .sidebar-sticky {
