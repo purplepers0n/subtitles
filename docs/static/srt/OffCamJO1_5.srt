@@ -52,7 +52,7 @@ Should I go here?
 
 14
 00:00:59,207 --> 00:01:00,504
-It disappears
+It disappeared
 
 15
 00:01:01,280 --> 00:01:03,280

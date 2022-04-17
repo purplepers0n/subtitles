@@ -75,7 +75,7 @@ It would be nice if it will make him cry today
 
 19
 00:01:12,800 --> 00:01:14,754
-Mame will arrived at 11:58AM
+Mame will arrive at 11:58AM
 
 20
 00:01:14,754 --> 00:01:16,766
@@ -153,7 +153,7 @@ Actually, this is not the only one...
 
 38
 00:02:20,066 --> 00:02:21,666
-Are there something else?
+Is there something else?
 
 39
 00:02:21,766 --> 00:02:22,633
@@ -201,7 +201,7 @@ They recorded this for you
 
 50
 00:02:51,500 --> 00:02:52,866
-He is wearing same t-shirts as yours!
+He is wearing same t-shirt as yours!
 
 51
 00:02:52,966 --> 00:02:54,466
@@ -222,7 +222,7 @@ Issei, congratulations on graduating high school
 
 55
 00:03:06,200 --> 00:03:12,433
-We understand that it must had been extremely hard to balance JO1 activities and high school life
+We understand that it must have been extremely hard to balance JO1 activities and high school life
 
 56
 00:03:13,066 --> 00:03:17,517
@@ -246,7 +246,7 @@ Issei, congratulations on graduating high school today
 
 61
 00:03:29,466 --> 00:03:33,500
-It's a relieved that you are able to receive your graduation diploma today
+It's a relieve that you are able to receive your graduation diploma today
 
 62
 00:03:33,500 --> 00:03:37,270
@@ -346,7 +346,7 @@ I'm extremely happy right now
 
 86
 00:05:04,233 --> 00:05:07,500
-I will continue to work hard as JO1 member
+I will continue to work hard as a JO1 member
 
 87
 00:05:10,133 --> 00:05:11,500
@@ -371,4 +371,3 @@ You have grown up!
 92
 00:05:24,598 --> 00:05:29,662
 [Eng Translation by peanutbataa247. May contain inaccuracies]
-
