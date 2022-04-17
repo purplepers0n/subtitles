@@ -4,7 +4,11 @@
 2. I recommend renaming the file into something concise and without spaces (use underscore '_' instead)
 
 3. In docs>video, duplicate one of the existing folders inside and rename accordingly for your video (keep it short and use dash '-', this will be displayed as the site URL)
-4. Open the index.html file inside this new folder, and change 1) 'title:' to title of the video, 2) 'description:' to correct credit name & link, 3) 'video:' to the name of folder. Don't change the others
+4. Open the index.html file inside this new folder, and change
+	a) 'title:' title of the video (square brackets [] don't work, so just put a dash after instead. i.e 'OffCamJO1 - ...',
+	b) 'description:' correct credit name & link,
+	c) 'video:' the name of folder
+	Don't change the others
 
 5. In docs>_includes>video, duplicate one of the .html files and rename to the SAME name as the folder name in step 3-4
 6. On the youtube video page, click 'share' and copy the characters that come AFTER 'https://youtu.be/' in the popup (double check that the embed option exists in this popup!). In your new .html file, paste this AFTER 'https://www.youtube.com/embed/' on the second line of the file (replace the existing characters in the url)
