@@ -1,11 +1,13 @@
 <div id="fullscreen-container" style="width: 100%; height: 60vh;">
-  <iframe id="video" width="100%" height="100%" src="https://www.youtube.com/embed/gHIO7htWwE8" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe id="video" width="100%" height="100%" src="https://www.youtube.com/embed/NvsE_KuTtyw" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 <script src="static/vendor/youtube.external.subtitle/youtube.external.subtitle.js"></script>
 <script src="static/vendor/subtitles-parser/subtitles.parser.js"></script>
 <button id="fullscreen-btn" class="button-1">Fullscreen</button>
 <style>
-  .youtube-external-subtitle span { font-size: 0.85em; margin-top: 1em; }
+  .youtube-external-subtitle { margin-top: 1em; }
+  .youtube-external-subtitle.fullscreen { margin-top: 0.5em; }
+  .youtube-external-subtitle span { font-size: 0.85em;}
 </style>
 <script>
   var loadSRT = function(url, callback) {
@@ -31,7 +33,7 @@
     httpRequest.send(null);
   };
 
-  loadSRT('static/srt/dreamer_mv.srt', function(subtitles) {
+  loadSRT('static/srt/OffCamJO1_4.srt', function(subtitles) {
     var youtubeExternalSubtitle = new YoutubeExternalSubtitle.Subtitle(document.getElementById('video'), subtitles);
   });
 

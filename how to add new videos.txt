@@ -1,0 +1,22 @@
+!How to add new videos/subtitles to this site!
+
+1. Copy the .srt file into docs>static>srt folder
+2. I recommend renaming the file into something concise and without spaces (use underscore '_' instead)
+
+3. In docs>video, duplicate one of the existing folders inside and rename accordingly for your video (keep it short and use dash '-', this will be displayed as the site URL)
+4. Open the index.html file inside this new folder, and change
+	a) 'title:' title of the video (square brackets [] don't work, so just put a dash after instead. i.e 'OffCamJO1 - ...',
+	b) 'description:' correct credit name & link,
+	c) 'video:' the name of folder
+	Don't change the others
+
+5. In docs>_includes>video, duplicate one of the .html files and rename to the SAME name as the folder name in step 3-4
+6. On the youtube video page, click 'share' and copy the characters that come AFTER 'https://youtu.be/' in the popup (double check that the embed option exists in this popup!). In your new .html file, paste this AFTER 'https://www.youtube.com/embed/' on the second line of the file (replace the existing characters in the url)
+7. On line 34 of this file ('loadSrt...') change the .srt file name accordingly
+
+8. Open main.html in docs>_layouts
+9a. If the video you are adding already has a category on the site, find the category and copy the 3 lines of <li...> ~ </li> and paste it below (or wherever appropriate) the existing links.
+9b. If not, copy <h6...>~</h6><ul...>~</ul> and paste it where appropriate. Rename the category heading in <span> ... </span>
+10. Change the href="" to the name of your folder in step 3-4, and change the title (this will be the title in the sidebar, so try to keep it short. It can be different from the full title of the video)
+
+by Shin

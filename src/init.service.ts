@@ -111,7 +111,7 @@ export const addGlobalStyles = (document: Document): void => {
   style.id = CSS.ID;
   style.type = 'text/css';
   style.innerHTML = `
-    .${CSS.CLASS} { position: absolute; display: none; z-index: 0; pointer-events: none; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; font-size: 17px; text-align: center; }
+    .${CSS.CLASS} { position: absolute; display: none; z-index: 0; pointer-events: none; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; font-size: 15px; text-align: center; }
     .${CSS.CLASS} span { background: #000; background: rgba(0, 0, 0, 0.7); padding: 1px 4px; display: inline-block; margin-bottom: 2px; }
     .${CSS.CLASS}.${CSS.FULLSCREEN_IGNORE} { display: none !important; }
     .${CSS.CLASS}.${CSS.FULLSCREEN} { z-index: 3000000000; }

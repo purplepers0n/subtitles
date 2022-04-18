@@ -12,7 +12,7 @@ var parser = (function() {
      *
      * @param  {String}  data SubRip suntitles string
      * @param  {Boolean} ms   Optional: use milliseconds for startTime and endTime
-     * @return {Array}  
+     * @return {Array}
      */
     pItems.fromSrt = function(data, ms) {
         var useMs = ms ? true : false;
@@ -74,16 +74,16 @@ var parser = (function() {
         }
 
         // hours + minutes + seconds + ms
-        return parts[1] * 3600000 + parts[2] * 60000 + parts[3] * 1000 + parts[4];
+        return parts[1] * 3600000 + parts[2] * 60000 + parts[3] * 1000 + parts[4] - 250;
     };
 
     var msTime = function(val) {
-        var measures = [ 3600000, 60000, 1000 ]; 
+        var measures = [ 3600000, 60000, 1000 ];
         var time = [];
 
         for (var i in measures) {
             var res = (val / measures[i] >> 0).toString();
-            
+
             if (res.length < 2) res = '0' + res;
             val %= measures[i];
             time.push(res);
