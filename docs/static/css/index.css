@@ -128,7 +128,7 @@ body {
 }
 
 /*
- * video page
+ * pages
  */
 
  .button-1 {
@@ -166,12 +166,20 @@ body {
    color: #68b3e4;
  }
 
- .videotitle:after{
+ .subheader {
+   padding: 0rem 1rem;
+   width: 40vw;
+   min-width: 330px;
+   text-align: left;
    color: #68b3e4;
+ }
+
+ .subheader:after{
+   color: #86C2EA;
    content: "";
    flex: 1 1;
-   border-bottom: 1px solid;
-   margin: 0 1.5rem;
+   border-bottom: 2px solid;
+   margin: 0 1rem;
  }
 
 /*
