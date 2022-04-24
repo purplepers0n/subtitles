@@ -550,7 +550,7 @@ It's a hamburger!
 132
 00:05:11,110 --> 00:05:14,314
 [Ren is in-charge of toppings:
-Making 'JAM & JO1' with strawberries]
+Making JAM & JO1 with strawberries]
 
 133
 00:05:14,314 --> 00:05:15,148
