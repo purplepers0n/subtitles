@@ -36,7 +36,7 @@ Shion: Why not on my turn...
 
 10
 00:00:19,257 --> 00:00:20,762
-Ren: Okay, let's do this in a swift
+Ren: Okay, let's do this swiftly
 
 11
 00:00:21,220 --> 00:00:22,231
@@ -66,11 +66,11 @@ Shosei: Shion, you still have a chance
 
 17
 00:00:36,068 --> 00:00:37,733
-Ren: The two of them guess 'One' consecutively
+Ren: The two of them guessed 'One' consecutively
 
 18
 00:00:37,733 --> 00:00:39,021
-Sho: They calculating it
+Sho: They're calculating it
 
 19
 00:00:39,021 --> 00:00:40,797
@@ -106,7 +106,7 @@ Ren: I will switch to Shion's mindset
 
 27
 00:01:00,172 --> 00:01:02,796
-Ren: If i switch my mindset to Shion's, I will know what he would do
+Ren: If I switch my mindset to Shion's, I will know what he would do
 
 28
 00:01:02,883 --> 00:01:04,907
@@ -183,7 +183,7 @@ Shion: I beat Ren-kun!
 
 46
 00:01:59,512 --> 00:02:01,385
-Shosei: He did said to do it 11 times
+Shosei: He did say to do it 11 times
 
 47
 00:02:03,715 --> 00:02:05,357

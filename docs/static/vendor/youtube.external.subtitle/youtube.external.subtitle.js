@@ -311,7 +311,7 @@
             y: iframe.offsetTop - iframe.scrollTop + iframe.clientTop,
             width: iframe.offsetWidth,
             height: height,
-            bottomPadding: height < 200 && !controlsVisible ? 20 : 60
+            bottomPadding: height < 200 && !controlsVisible ? 10 : 50
         };
     };
     var renderSubtitle = function (element, player, isFullscreenActive, text, controlsVisible) {
@@ -324,7 +324,7 @@
             element.style.top = frame.y + "px";
             element.style.left = frame.x + "px";
             element.style.maxWidth = frame.width - 20 + "px";
-            element.style.fontSize = frame.height / 260 + "em";
+            element.style.fontSize = frame.height / 280 + "em";
             element.style.top = frame.y + frame.height - frame.bottomPadding - element.offsetHeight + "px";
             element.style.left = frame.x + (frame.width - element.offsetWidth) / 2 + "px";
             element.style.visibility = '';
