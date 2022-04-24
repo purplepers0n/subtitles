@@ -74,7 +74,8 @@ var parser = (function() {
         }
 
         // hours + minutes + seconds + ms
-        return parts[1] * 3600000 + parts[2] * 60000 + parts[3] * 1000 + parts[4] - 250;
+        // adjustment offset value at end
+        return parts[1] * 3600000 + parts[2] * 60000 + parts[3] * 1000 + parts[4] - 255;
     };
 
     var msTime = function(val) {

@@ -1,16 +1,16 @@
 1
 00:00:13,905 --> 00:00:15,622
-[First impression: What kind of person are you seen as?]
+[First impression: What kind of person were you seen as?]
 Let's see...
 
 2
 00:00:15,622 --> 00:00:16,754
-[First impression: What kind of person are you seen as?]
+[First impression: What kind of person were you seen as?]
 Yes
 
 3
 00:00:16,754 --> 00:00:18,230
-[First impression: What kind of person are you seen as?]
+[First impression: What kind of person were you seen as?]
 For Shosei...
 
 4
@@ -129,10 +129,12 @@ I see
 
 32
 00:02:00,882 --> 00:02:04,631
+[First impression: What kind of person were you seen as?]
 I think he probably thought I was scary
 
 33
 00:02:04,631 --> 00:02:08,819
+[The real first impression is?]
 I did think that a little, initially Keigo-kun was really muscular
 
 34
@@ -150,6 +152,7 @@ Ahh~ Scary
 
 37
 00:02:19,068 --> 00:02:20,762
+[First impression: What kind of person were you seen as?]
 He probably didn't think anything about me
 
 38
@@ -165,7 +168,8 @@ Person!
 Trainee
 
 41
-00:02:26,963 --> 00:02:28,681
+00:02:26,963 --> 00:02:29,200
+[The real first impression is?]
 Well, within me I thought...
 
 42
@@ -177,11 +181,13 @@ That this person would pass (the audition)
 Yes. He was in my sights
 
 44
-00:02:38,608 --> 00:02:40,704
+00:02:37,608 --> 00:02:40,704
+[First impression: What kind of person were you seen as?]
 I think he thought 'This person is noisy'
 
 45
 00:02:41,410 --> 00:02:43,794
+[The real first impression is?]
 What I actually thought about him?
 
 46
@@ -212,7 +218,7 @@ thought he was trying to act cool
 52
 00:02:56,499 --> 00:02:59,970
 - Well I did think he was cool at that time
-- I'm happy
+- Whoa! I'm happy
 
 53
 00:02:59,970 --> 00:03:01,297
@@ -256,7 +262,8 @@ Right, he's that type
 - He's interesting
 
 63
-00:03:17,192 --> 00:03:19,707
+00:03:17,000 --> 00:03:20,000
+[First impression: What kind of person were you seen as?]
 He probably thought of me as a kid
 
 64
@@ -269,6 +276,7 @@ I was young at that time
 
 66
 00:03:24,679 --> 00:03:25,786
+[The real first impression is?]
 The correct answer is...
 
 67
@@ -325,10 +333,12 @@ It is
 
 80
 00:04:02,618 --> 00:04:03,221
+[First impression: What kind of person were you seen as?]
 What is it...
 
 81
 00:04:03,221 --> 00:04:08,435
+[First impression: What kind of person were you seen as?]
 On the contrary, I didn't think about 'How do others see me?'
 
 82
@@ -421,10 +431,12 @@ Wrong!
 
 103
 00:05:08,930 --> 00:05:09,800
+[The real first impression is?]
 Then what is it?
 
 104
 00:05:09,800 --> 00:05:11,171
+[The real first impression is?]
 Yes, ummmm...
 
 105
@@ -480,6 +492,7 @@ I've said it before
 
 117
 00:05:42,737 --> 00:05:44,483
+[The real first impression is?]
 At first I only saw him as a yankee
 
 118
@@ -649,6 +662,7 @@ Ready, go!
 
 155
 00:06:41,439 --> 00:06:42,031
+[Perfectly]
 Both: After!
 
 156
@@ -711,7 +725,7 @@ We couldn't even match at the end!
 
 169
 00:07:03,087 --> 00:07:05,005
-Ren-kun and I are funny
+Me and Ren-kun are funny
 
 170
 00:07:05,864 --> 00:07:07,288
@@ -787,6 +801,7 @@ Sho: Aquarium
 
 186
 00:07:36,512 --> 00:07:38,013
+[Yonashiro Sho, Son of Okinawa]
 Because I'm from Okinawa...
 
 187
