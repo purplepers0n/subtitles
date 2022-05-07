@@ -5,7 +5,7 @@
 
 3. In docs>video, duplicate one of the existing folders inside and rename accordingly for your video (keep it short and use dash '-', this will be displayed as the site URL)
 4. Open the index.html file inside this new folder, and change
-	a) 'title:' title of the video (square brackets [] don't work, so just put a dash after instead. i.e 'OffCamJO1 - ...',
+	a) 'title:' title of the video
 	b) 'description:' correct credit name & link,
 	c) 'video:' the name of folder
 	Don't change the others
