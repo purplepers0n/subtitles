@@ -11,7 +11,7 @@ MAME:
 3
 00:00:25,560 --> 00:00:30,530
 MAME:
- Tsuraku oshi kakaru hibi wo
+ Tsuraku noshi kakaru hibi wo
  [Those difficult days that weighed heavily on us]
 
 4
