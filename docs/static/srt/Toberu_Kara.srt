@@ -11,7 +11,7 @@ MAME:
 3
 00:00:25,560 --> 00:00:30,530
 MAME:
- Tsuraku noshi kakaru hibi wo
+ Tsuraku oshi kakaru hibi wo
  [Those difficult days that weighed heavily on us]
 
 4
@@ -23,7 +23,7 @@ REN:
 5
 00:00:35,950 --> 00:00:41,410
 REN:
- Kuyandatte urayandatte bokura rashiku
+ Kuyandatte urayandatte boku rashiku
  [We were regretful, we were envious, that’s the way we are]
 
 6
@@ -271,4 +271,3 @@ JUNKI:
 KEIGO:
  Itsu datte toberu kara
  [Because we’re able to fly at any time]
-
