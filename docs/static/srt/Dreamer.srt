@@ -1,0 +1,332 @@
+﻿1
+00:00:00,050 --> 00:00:04,020
+[Translation by Shin @cshinjam,
+timing/formatting by Berry @BerryMagic_]
+
+2
+00:00:04,330 --> 00:00:08,660
+KEIGO:
+ Yeah, yeah, yeah, yeah, yeah
+
+3
+00:00:08,710 --> 00:00:10,920
+KEIGO:
+ Oh no no no no
+
+4
+00:00:10,920 --> 00:00:14,380
+KEIGO:
+ Yeah, yeah, yeah, yeah, yeah
+
+5
+00:00:16,680 --> 00:00:23,310
+SYOYA:
+ Kinou no you ni omoi dasu
+ [I remember it like it was yesterday]
+
+6
+00:00:23,310 --> 00:00:29,230
+SHOSEI:
+ Hitamuki ni tada hashitteta
+ [I was just running single-mindedly]
+
+7
+00:00:29,230 --> 00:00:35,490
+JUNKI:
+ Ki ga tsukeba tachi domatte
+ [Before I realised, I was standing still]
+
+8
+00:00:35,490 --> 00:00:41,120
+KEIGO:
+ Susume naku natte ita
+ [Unable to move forward]
+
+9
+00:00:41,120 --> 00:00:44,870
+SHION:
+ Demo tadori tsukitai basho ga
+ [But there’s a place that I want to reach]
+
+10
+00:00:44,870 --> 00:00:47,960
+SHION:
+ Aru kara ayumi tsudzukerunda
+ [So I’ll continue walking]
+
+11
+00:00:48,130 --> 00:00:51,300
+MAME:
+ Kimi kara moratta hikari
+ [The light that I received from you]
+
+12
+00:00:51,300 --> 00:00:54,550
+MAME:
+ Nigiri shimete ikunda I’ll be
+ [I’ll be holding on to it]
+
+13
+00:00:54,550 --> 00:00:58,100
+TAKUMI:
+ Kitto omoi egaite ita
+ [Towards the other side]
+
+14
+00:00:58,100 --> 00:01:01,720
+TAKUMI:
+ Yume no mukou gawa e
+ [Of the dream I’ve envisioned]
+
+15
+00:01:01,720 --> 00:01:07,560
+REN:
+ Oh kimi to ikeru hazu sa
+ [Oh I’m sure I can head there with you]
+
+16
+00:01:07,560 --> 00:01:10,940
+SHO:
+ Bokura wa mada dreamer dreamer
+ [We are still dreamers, dreamers]
+
+17
+00:01:10,940 --> 00:01:14,240
+SHO:
+ Mayowanaide closer closer
+ [Go closer and closer, without hesitation]
+
+18
+00:01:14,240 --> 00:01:18,530
+JUNKI:
+ Chikadzuite iku kono omoi wo (Yeah Yeah Yeah Yeah Yeah)
+ [This feeling is getting closer]
+
+19
+00:01:18,530 --> 00:01:21,410
+JUNKI:
+ Itsu made mo mune ni (Yeah Yeah Yeah Yeah Yeah)
+ [It’ll always be in my heart]
+
+20
+00:01:21,410 --> 00:01:28,140
+REN:
+ Kono te wo zutto hanasanaide asu e
+ [Don’t ever let go of this hand]
+
+21
+00:01:28,140 --> 00:01:39,780
+TAKUMI:
+ Ippo zutsu bokura no ashi de aruite ikou
+ [We’ll walk together towards tomorrow, one step at a time]
+
+22
+00:01:41,890 --> 00:01:45,310
+RUKI:
+ Machigaeru koto mo aru keredo
+ [Sometimes I make mistakes]
+
+23
+00:01:45,310 --> 00:01:48,770
+RUKI:
+ Because you’re here, kyou mo mae dake wo muku yo
+ [But because you’re here, today I’ll only look forward]
+
+24
+00:01:48,770 --> 00:01:51,900
+SHOSEI:
+ Kimi to kimeta promise
+ [The promise we decided on]
+
+25
+00:01:51,900 --> 00:01:54,530
+SHOSEI:
+ Himitsu sa nobody else knows
+ [It’s a secret nobody else knows]
+
+26
+00:01:54,530 --> 00:02:01,070
+SHION:
+ Ki ga tsukeba donna toki mo
+ [Before I realised, no matter when]
+
+27
+00:02:01,070 --> 00:02:06,410
+SHION:
+ Tonari ni ite kureta
+ [You were always by my side]
+
+28
+00:02:06,410 --> 00:02:10,210
+JUNKI:
+ Hiza wo kakaete utsumuita
+ [As I hugged my knees and looked down]
+
+29
+00:02:10,210 --> 00:02:13,550
+JUNKI:
+ Boku ni te wo sashi nobete kureta
+ [You reached out towards me]
+
+30
+00:02:13,550 --> 00:02:16,880
+KEIGO:
+ Sono egao no nukumori ga
+ [The warmth of that smile]
+
+31
+00:02:16,880 --> 00:02:20,180
+KEIGO:
+ Ima mo wasure rarenainda
+ [Even up till now I can’t forget it]
+
+32
+00:02:20,180 --> 00:02:20,190
+MAME:
+ Sukoshi no koto demo nani ka ga chigattara bokura wa
+ [If something had been just a little different]
+KEIGO:
+ Ima mo wasure rarenainda
+ [Even up till now I can’t forget it]
+
+33
+00:02:20,190 --> 00:02:27,030
+MAME:
+ Sukoshi no koto demo nani ka ga chigattara bokura wa
+ [If something had been just a little different]
+
+34
+00:02:27,030 --> 00:02:33,150
+SHO:
+ Deau koto mo nakatta no kana
+ [Maybe we would have never met]
+
+35
+00:02:33,150 --> 00:02:36,400
+REN:
+ Bokura wa mada dreamer dreamer
+ [We are still dreamers, dreamers]
+
+36
+00:02:36,400 --> 00:02:39,740
+REN:
+ Sukoshi zutsu together with you
+ [Little by little, together with you]
+
+37
+00:02:39,740 --> 00:02:44,080
+TAKUMI:
+ Kizande kita kimi to no memories (Yeah Yeah Yeah Yeah Yeah)
+ [The memories we created]
+
+38
+00:02:44,080 --> 00:02:46,950
+TAKUMI:
+ Nidoto nai kiseki (Yeah Yeah Yeah Yeah)
+ [A miracle that will never happen again]
+
+39
+00:02:46,950 --> 00:02:49,790
+SHO:
+ Unmei ja naku
+ [Even if it wasn’t fate]
+
+40
+00:02:49,790 --> 00:02:53,340
+SHO:
+ Guuzen da toshitemo
+ [But just a coincidence]
+
+41
+00:02:53,360 --> 00:02:58,840
+JUNKI:
+ Kono tokubetsu na kanjou
+ [This special feeling]
+
+42
+00:02:58,840 --> 00:03:01,590
+JUNKI:
+ Kawaranai yo
+ [Will never change]
+
+43
+00:03:01,590 --> 00:03:05,010
+MAME:
+ Ame kaze ni utarete
+ [Even if I get battered by the wind and rain]
+
+44
+00:03:05,010 --> 00:03:08,140
+MAME:
+ Arai nami ni momarete
+ [Even if I get tossed by the rough waves]
+
+45
+00:03:08,140 --> 00:03:12,560
+SHO:
+ Ikitai saki ga mada mienakutemo
+ [Even if I can’t see where I’m headed yet]
+
+46
+00:03:12,560 --> 00:03:19,990
+REN:
+ Yowai kokoro wa kakusanakutemo ii sa
+ [You don’t need to hide your fragile heart]
+
+47
+00:03:19,990 --> 00:03:25,890
+JUNKI:
+ Daijoubu jibun wo shinjite
+ [It’s alright, believe in yourself]
+
+48
+00:03:25,890 --> 00:03:29,040
+REN:
+ Bokura wa mada dreamer dreamer
+ [We are still dreamers, dreamers]
+
+49
+00:03:29,040 --> 00:03:32,540
+REN:
+ Mayowanaide closer closer
+ [Go closer and closer, without hesitation]
+
+50
+00:03:32,540 --> 00:03:36,380
+JUNKI:
+ Chikadzuite iku kono omoi wo (Yeah Yeah Yeah Yeah Yeah)
+ [This feeling is getting closer]
+
+51
+00:03:36,630 --> 00:03:39,460
+JUNKI:
+ Itsu made mo mune ni (Yeah Yeah Yeah Yeah Yeah)
+ [It’ll always be in my heart]
+
+52
+00:03:39,630 --> 00:03:46,280
+SHO:
+ Kono te wo zutto hanasanaide asu e
+ [Don’t ever let go of this hand]
+
+53
+00:03:46,280 --> 00:03:57,650
+TAKUMI:
+ Ippo zutsu bokura no ashi de aruite ikou
+ [We’ll walk together towards tomorrow, one step at a time]
+
+54
+00:03:57,650 --> 00:04:05,460
+TAKUMI:
+ Aruite ikou
+ [One step at a time]
+
+55
+00:04:05,460 --> 00:04:11,270
+TAKUMI:
+ Yeah, yeah, yeah
+
+56
+00:04:11,270 --> 00:04:16,110
+[Find more fansubs at
+@ArchiveforJAM on Twitter]

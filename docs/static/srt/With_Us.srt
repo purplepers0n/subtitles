@@ -1,0 +1,336 @@
+﻿1
+00:00:00,000 --> 00:00:08,320
+[English translation and romaji transliteration by Shin @cshinjam, timing and formatting by Berry @BerryMagic_]
+
+2
+00:00:09,880 --> 00:00:14,910
+MAME:
+ Yeah, we’ll be together
+
+
+3
+00:00:14,910 --> 00:00:17,550
+RUKI:
+ Itsu made mo baby
+ [Forever baby]
+
+4
+00:00:17,550 --> 00:00:19,750
+SHION:
+ Kimi wa oboete iru no
+ [Do you remember]
+
+5
+00:00:19,750 --> 00:00:22,390
+SHION:
+ Bokura ga deatta hi wo
+ [The day we met]
+
+6
+00:00:22,390 --> 00:00:25,000
+SYOYA:
+ Sorezore no yume kasanatte
+ [Each of our dreams overlapped]
+
+7
+00:00:25,000 --> 00:00:27,440
+SYOYA:
+ Soko kara hajimatta ne
+ [And it started from there]
+
+8
+00:00:27,440 --> 00:00:29,800
+SHOSEI:
+ Takusan no mahou ga
+ [Lots of magic]
+
+9
+00:00:29,800 --> 00:00:32,240
+SHOSEI:
+ Bokura wo musunde
+ [Tied us together]
+
+10
+00:00:32,240 --> 00:00:37,740
+SUKAI:
+ Hitotsu dake no kiseki ga deki agaru
+ [And a single miracle was created]
+
+11
+00:00:37,740 --> 00:00:42,200
+REN:
+ Come with me, everything's all right
+
+
+12
+00:00:42,370 --> 00:00:45,830
+REN:
+ Kimi to ireba
+ [As long as I’m with you]
+
+13
+00:00:45,830 --> 00:00:50,530
+SHO:
+ Donna toki mo With us
+ [At all times With us]
+
+14
+00:00:50,530 --> 00:00:55,630
+KEIGO:
+ Tomo ni iku yo With us
+ [Go together With us]
+
+15
+00:00:55,630 --> 00:00:58,870
+JUNKI:
+ Kasoku suru keshiki no saki
+ [Beyond the scenery that accelerates past us]
+
+16
+00:00:58,870 --> 00:01:02,670
+JUNKI:
+ Souzou koeru mirai e with us
+ [Is a future that surpasses our imagination with us]
+
+17
+00:01:02,670 --> 00:01:06,590
+TAKUMI:
+ Shinjitai with us, with us
+ [I want to believe with us, with us]
+
+18
+00:01:06,590 --> 00:01:11,400
+KEIGO:
+ Onaji yume mezasu nakama ga iru kara
+ [Because we have friends aiming for the same dream]
+
+19
+00:01:11,400 --> 00:01:15,150
+MAME:
+ Nagai toki hete bokura koko ni tateta ne
+ [After a long time, we could stand here]
+
+20
+00:01:15,150 --> 00:01:17,350
+SUKAI:
+ Kurai yoru demo so shine
+ [Even in the dark night we shine]
+
+21
+00:01:17,350 --> 00:01:20,080
+SUKAI:
+ Kata wo narabete go high
+ [Stand shoulder to shoulder and go high]
+
+22
+00:01:20,080 --> 00:01:22,520
+RUKI:
+ Tsurai hibi nori koe
+ [Overcoming the tough days]
+
+23
+00:01:22,520 --> 00:01:25,750
+RUKI:
+ Hashirou sono mirai e
+ [Let’s run towards that future]
+
+24
+00:01:25,750 --> 00:01:29,030
+JUNKI:
+ Here with me, we will be all right
+
+25
+00:01:29,030 --> 00:01:30,150
+REN:
+ Be all right
+JUNKI:
+ Here with me, we will be all right
+
+26
+00:01:30,150 --> 00:01:30,170
+JUNKI:
+ Here with me, we will be all right
+
+27
+00:01:30,340 --> 00:01:33,880
+JUNKI:
+ Soba ni ireba
+ [If you’re by my side]
+
+28
+00:01:33,880 --> 00:01:38,870
+REN:
+ Atsui mune de With us
+ [With a passionate heart With us]
+
+29
+00:01:38,870 --> 00:01:43,420
+MAME:
+ Tomo ni sakebu With us
+ [Shout together With us]
+
+30
+00:01:43,420 --> 00:01:46,960
+JUNKI:
+ Nuri kasane egaku iro wa
+ [The overlapping colors that we paint]
+
+31
+00:01:46,960 --> 00:01:50,840
+JUNKI:
+ Kitto bokura wo musubu with us
+ [Surely tie us together with us]
+
+32
+00:01:50,840 --> 00:01:55,180
+KEIGO:
+ Mamoritai with us, with us
+ [I want to protect this with us, with us]
+
+33
+00:01:55,300 --> 00:02:00,100
+TAKUMI:
+ Kawarazu ni always together
+ [Same as ever, always together]
+
+34
+00:02:00,100 --> 00:02:04,900
+REN:
+ Itsu made mo always together
+ [Forever, always together]
+
+35
+00:02:04,900 --> 00:02:07,650
+JUNKI:
+ Kawarazu ni always together
+ [Same as ever, always together]
+
+36
+00:02:07,650 --> 00:02:09,880
+JUNKI:
+ We’re gonna be together
+
+37
+00:02:09,880 --> 00:02:13,530
+SHO:
+ Doko made mo with us, with us
+ [No matter where we go with us, with us]
+
+38
+00:02:13,750 --> 00:02:15,490
+RUKI:
+ Mada kore kara ga
+ [From here on]
+
+39
+00:02:15,490 --> 00:02:18,010
+RUKI:
+ Kimi to boku ga egaku drama
+ [The drama you and I envision]
+
+40
+00:02:18,010 --> 00:02:19,990
+SHOSEI:
+ Kono michi ga futashika demo
+ [Even if the road is uncertain]
+
+41
+00:02:19,990 --> 00:02:22,370
+SHOSEI:
+ Tachi domarazu arukou
+ [Let's walk without stopping]
+
+42
+00:02:22,430 --> 00:02:25,210
+SYOYA:
+ Bokura wa hi ni hi ni grow up, tagai ni go up
+ [Day by day we grow up, we both go up]
+
+43
+00:02:25,210 --> 00:02:27,890
+SYOYA:
+ Issho nara ikeru yo TOP made baby
+ [If we’re together we can go to the TOP baby]
+
+44
+00:02:27,890 --> 00:02:29,710
+SHION:
+ Mezasu toko made nobotte
+ [Climbing up until our goal]
+
+45
+00:02:29,710 --> 00:02:32,010
+SHION:
+ Onaji keshiki nagameyou
+ [Let’s gaze at the same view]
+
+46
+00:02:32,010 --> 00:02:33,860
+SHION:
+ Yeah mou ikkai baby
+ [One more time baby]
+
+47
+00:02:33,860 --> 00:02:38,390
+SHO:
+ Donna toki mo With us
+ [At all times With us]
+
+48
+00:02:38,600 --> 00:02:43,390
+MAME:
+ Tomo ni iku yo With us
+ [Go together With us]
+
+49
+00:02:43,490 --> 00:02:46,850
+TAKUMI:
+ Kasoku suru keshiki no saki
+ [Beyond the scenery that accelerates past us]
+
+50
+00:02:46,850 --> 00:02:50,570
+TAKUMI:
+ Souzou koeru mirai e with us
+ [Is a future that surpasses our imagination, with us]
+
+51
+00:02:50,570 --> 00:02:54,530
+JUNKI:
+ Shinjitai with us, with us
+ [I want to believe with us, with us]
+
+52
+00:02:55,630 --> 00:03:00,300
+SHO:
+ Kawarazu ni always together
+ [Same as ever, always together]
+
+53
+00:03:00,300 --> 00:03:05,060
+REN:
+ Itsu made mo always together
+ [Forever, always together]
+
+54
+00:03:05,060 --> 00:03:07,630
+MAME:
+ Kawarazu ni always together
+ [Same as ever, always together]
+
+55
+00:03:07,630 --> 00:03:09,890
+MAME:
+ We’re gonna be together
+ [We’re gonna be together]
+
+56
+00:03:09,890 --> 00:03:15,760
+TAKUMI:
+ Doko made mo with us, with us
+ [No matter where we go with us, with us]
+
+57
+00:03:21,890 --> 00:03:29,060
+[Find more fansubs at
+@ArchiveforJAM on Twitter]

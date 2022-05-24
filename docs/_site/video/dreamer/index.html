@@ -33,11 +33,20 @@
           </li>
         </ul>
         <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1">
-          <span>Official MV</span>
+          <span>Official MV/PV</span>
         </h6>
         <ul class="nav flex-column mb-2">
           <li class="nav-item">
+            <a class="nav-link" href="./video/dreamer/">Dreamer</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="./video/toberu-kara/">Toberu Kara</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./video/with-us/">With Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./video/wiliti/">Walk It Like I Talk It</a>
           </li>
         </ul>
         <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1">
@@ -121,7 +130,7 @@
     <main role="main" class="col-md-9 ml-sm-auto px-md-5 my-4">
       <h2><h2>JO1 'Dreamer' Official MV</h2></h2>
 <hr>
-<p style='font-size: 1rem;'>English subtitles by <a class="link" href='https://twitter.com/cshinjam' target="_blank" rel="noopener noreferrer">Shin</a></p>
+<p style='font-size: 1rem;'>English subtitles by <a class="link" href='https://twitter.com/cshinjam' target="_blank" rel="noopener noreferrer">Shin</a> and <a class="link" href='https://twitter.com/BerryMagic_' target="_blank" rel="noopener noreferrer">Berry</a></p>
 
 <div id="fullscreen-container" style="width: 100%; height: 60vh;">
   <iframe id="video" width="100%" height="100%" src="https://www.youtube.com/embed/gHIO7htWwE8" frameborder="0" allowfullscreen="true"></iframe>
@@ -153,7 +162,7 @@
     httpRequest.send(null);
   };
 
-  loadSRT('static/srt/dreamer_mv.srt', function(subtitles) {
+  loadSRT('static/srt/Dreamer.srt', function(subtitles) {
     var youtubeExternalSubtitle = new YoutubeExternalSubtitle.Subtitle(document.getElementById('video'), subtitles);
   });
 
