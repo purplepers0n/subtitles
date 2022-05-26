@@ -1,0 +1,337 @@
+﻿1
+00:00:00,000 --> 00:00:06,030
+[Translation by Shin @cshinjam,
+timing and formatting by Berry @BerryMagic_]
+
+2
+00:00:06,680 --> 00:00:14,200
+TAKUMI:
+ Kagami no oku zutto samayoi tsudzuketa
+ [I’ve been wandering in the depths of the mirror]
+
+3
+00:00:14,200 --> 00:00:18,630
+MAME:
+ Kedo kidzuitanda
+ [But I noticed]
+
+4
+00:00:18,630 --> 00:00:20,680
+TAKUMI:
+ This is me
+
+5
+00:00:20,680 --> 00:00:22,380
+MAME:
+ This is me
+
+6
+00:00:22,740 --> 00:00:26,840
+REN:
+ Ippozutsu I will be there
+ [One step at a time, I will be there]
+
+7
+00:00:26,840 --> 00:00:30,930
+SHION:
+ Kinou yori mo chikadzuku yume
+ [A dream closer than it was yesterday]
+
+8
+00:00:30,930 --> 00:00:34,720
+SUKAI:
+ Kawaranai I will be with you
+ [Nothing will change, I will be with you]
+
+9
+00:00:34,720 --> 00:00:38,640
+KEIGO:
+ Motto motto todoketai
+ [I want it to reach you more and more]
+
+10
+00:00:38,640 --> 00:00:42,410
+SHO:
+ Taiyou ga tsutsumu
+ [The sun envelops you]
+
+11
+00:00:42,410 --> 00:00:46,640
+SHO:
+ Mabayui hikari kimi terasu
+ [The dazzling light shines on you]
+
+12
+00:00:46,640 --> 00:00:50,500
+JUNKI:
+ Egakunda sono hi wo
+ [Envision that day]
+
+13
+00:00:50,500 --> 00:00:56,520
+JUNKI:
+ Saigo no ippo tadoru hi wo, yeah
+ [That day where you take the final step]
+
+14
+00:00:56,520 --> 00:01:02,040
+TAKUMI:
+ Me no mae ni this is my desire
+ [Right before my eyes, this is my desire]
+
+15
+00:01:02,040 --> 00:01:04,430
+RUKI:
+ Motto takai basho
+ [Reaching a higher place]
+
+16
+00:01:04,430 --> 00:01:10,480
+REN:
+ Tsureteku yo te wo tsukande
+ [I’ll take you along, grab my hand]
+
+17
+00:01:10,480 --> 00:01:13,930
+KEIGO:
+ This is no dream, so real
+
+18
+00:01:18,590 --> 00:01:21,600
+MAME:
+ This is no dream, so real
+
+19
+00:01:22,110 --> 00:01:23,030
+SYOYA:
+ Let’s go all the way
+
+20
+00:01:23,030 --> 00:01:24,280
+SYOYA:
+ Kagami no naka
+ [In the mirror]
+
+21
+00:01:24,280 --> 00:01:26,590
+SYOYA:
+ Zutto toji komerareta you de, ay
+ [As if I had been trapped in here forever]
+
+22
+00:01:26,590 --> 00:01:28,750
+SYOYA:
+ 1 step, toki ga tatte someday
+ [1 step, time passes, someday]
+
+23
+00:01:28,750 --> 00:01:30,750
+SYOYA:
+ 2 step, omoi door aite
+ [2 step, open the heavy door]
+
+24
+00:01:30,750 --> 00:01:32,830
+SHOSEI:
+ Chiisana koro mita daydream
+ [The daydream I had when I was young]
+
+25
+00:01:32,830 --> 00:01:34,860
+SHOSEI:
+ Tashika na mono ni shite iku
+ [I will make it real]
+
+26
+00:01:34,860 --> 00:01:36,000
+SHOSEI:
+ I knew from the start
+
+27
+00:01:36,000 --> 00:01:38,090
+SHOSEI:
+ Mirai eigou ni like a star
+ [The future eternally like a star]
+
+28
+00:01:38,090 --> 00:01:42,260
+SHO:
+ Chirabatta kioku
+ [Scattered memories]
+
+29
+00:01:42,260 --> 00:01:46,090
+KEIGO:
+ Osanaki hi no akogaretachi
+ [The longing from my childhood]
+
+30
+00:01:46,090 --> 00:01:49,920
+JUNKI:
+ Te no hira ni atsumete
+ [I gather it in my palm]
+
+31
+00:01:49,920 --> 00:01:53,820
+SUKAI:
+ Tashika na mono e kaeru kara
+ [Because I’m gonna change it into something real]
+
+32
+00:01:53,820 --> 00:01:57,820
+MAME:
+ Taiyou ga tsutsumu
+ [The sun envelops you]
+
+33
+00:01:57,820 --> 00:02:01,830
+MAME:
+ Mabayui hikari kimi terasu
+ [The dazzling light shines on you]
+
+34
+00:02:01,830 --> 00:02:05,920
+REN:
+ Egakunda sono hi wo
+ [Envision that day]
+
+35
+00:02:05,920 --> 00:02:10,610
+REN:
+ Saigo no ippo tadoru hi wo
+ [That day where you take the final step]
+
+36
+00:02:10,610 --> 00:02:11,360
+REN:
+Yeah
+
+37
+00:02:11,360 --> 00:02:17,050
+JUNKI:
+ Me no mae ni this is my desire
+ [Right before my eyes, this is my desire]
+
+38
+00:02:17,050 --> 00:02:19,730
+SHO:
+ Motto takai basho
+ [Reaching a higher place]
+
+39
+00:02:19,730 --> 00:02:25,650
+TAKUMI:
+ Tsureteku yo te wo tsukande
+ [I’ll take you along, grab my hand]
+
+40
+00:02:25,650 --> 00:02:27,870
+SUKAI:
+ This is no dream, so real
+
+41
+00:02:27,870 --> 00:02:29,690
+SHION:
+ So real, yume miteta basho sa
+ [So real, the place I dreamt of]
+
+42
+00:02:29,690 --> 00:02:31,580
+SHION:
+ Right here, egaita basho sa
+ [Right here, the place I envisioned]
+
+43
+00:02:31,580 --> 00:02:35,050
+SHION:
+ Kimi to boku no dice onaji basho de kasane
+ [Your dice and mine overlap in the same place]
+
+44
+00:02:35,050 --> 00:02:37,190
+RUKI:
+ Asu e tsuki nukeru my wings to
+ [My wings that will break through to tomorrow]
+
+45
+00:02:37,190 --> 00:02:39,140
+RUKI:
+ Hateshinaku tsudzuku story
+ [And an endless story]
+
+46
+00:02:39,140 --> 00:02:41,510
+SHOSEI:
+ Sou toii mirai ja nai darou
+ [It won’t be much longer now]
+
+47
+00:02:41,510 --> 00:02:43,770
+SYOYA:
+ Right now, right here, so real
+
+48
+00:02:43,770 --> 00:02:49,530
+TAKUMI:
+ Me no mae ni this is my desire
+ [Right before my eyes, this is my desire]
+
+49
+00:02:49,530 --> 00:02:52,260
+RUKI:
+ Motto takai basho
+ [Reaching a higher place]
+
+50
+00:02:52,260 --> 00:02:58,180
+JUNKI:
+ Tsureteku yo te wo tsukande
+ [I’ll take you along, grab my hand]
+
+51
+00:02:58,180 --> 00:03:00,330
+SHO:
+ This is no dream, so real
+
+52
+00:03:00,330 --> 00:03:02,370
+REN, RUKI:
+ Ay, we will be together now
+
+53
+00:03:02,370 --> 00:03:04,410
+REN, RUKI:
+ Tsuyoku nigitte kono mama
+ [Hold on tightly, just like this]
+
+54
+00:03:04,410 --> 00:03:06,370
+KEIGO, SUKAI:
+ Ay, this is my desire
+
+55
+00:03:06,370 --> 00:03:08,420
+SYOYA:
+ Hateshinaku doko made mo
+ [It’ll be endless, no matter where we go]
+
+56
+00:03:08,420 --> 00:03:10,510
+SHOSEI, MAME:
+ Ay, we will be together now
+
+57
+00:03:10,510 --> 00:03:12,490
+SHOSEI, MAME:
+ Tsuyoku nigitte kono mama
+ [Hold on tightly, just like this]
+
+58
+00:03:12,490 --> 00:03:14,540
+SHO, SHION:
+ Ay, this is my desire
+
+59
+00:03:14,540 --> 00:03:19,010
+JUNKI, TAKUMI:
+ This is no dream, so real
