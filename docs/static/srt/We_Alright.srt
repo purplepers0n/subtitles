@@ -1,0 +1,322 @@
+﻿1
+00:00:00,000 --> 00:00:06,110
+[Translation & romaji by Shin @cshinjam,
+timing & formatting by Berry @BerryMagic_]
+
+2
+00:00:06,110 --> 00:00:13,700
+RUKI:
+ Unmei ni makasenai tayoru koto nai
+ [I won’t leave it to fate, it's undependable]
+
+3
+00:00:13,700 --> 00:00:15,620
+SYOYA:
+ Mienakute ii run up
+ [You don’t have to see it, run up]
+
+4
+00:00:15,620 --> 00:00:17,780
+SYOYA:
+ Jibun wo koete ike rise up
+ [Surpass yourself, rise up]
+
+5
+00:00:17,780 --> 00:00:21,630
+SHOSEI, SHION:
+ We go, we alright
+
+6
+00:00:21,630 --> 00:00:25,500
+KEIGO:
+ Moe agaru you na atsui kokoro de
+ [With a burning, passionate heart]
+
+7
+00:00:25,500 --> 00:00:29,220
+SUKAI:
+ Yume mita jibun ga ugoki dashita shunkan
+ [The moment I find my dream and start moving]
+
+8
+00:00:29,220 --> 00:00:33,230
+TAKUMI:
+ Isshun demo ii sa ichido dake de ii sa
+ [Even if it’s just for a moment, even if it’s just one time]
+
+9
+00:00:33,360 --> 00:00:37,270
+KEIGO (REN):
+ Te ni tsukamitai (sekai wo)
+ [I want to hold it in my hands (the world)]
+
+10
+00:00:37,270 --> 00:00:40,640
+SHO:
+ Unmei ni makasenai
+ [I won’t leave it to fate]
+
+11
+00:00:40,640 --> 00:00:44,730
+SUKAI:
+ Tayoru koto nai
+ [It's undependable]
+
+12
+00:00:44,730 --> 00:00:46,610
+MAME:
+ Mienakute ii run up
+ [You don’t have to see it, run up]
+
+13
+00:00:46,610 --> 00:00:48,880
+MAME:
+ Jibun wo koete ike rise up
+ [Surpass yourself, rise up]
+
+14
+00:00:48,880 --> 00:00:51,610
+REN:
+ We go, we alright
+
+15
+00:00:51,610 --> 00:01:00,370
+TAKUMI:
+ Mugen ni tobitai itsu made mo tomaru koto naku
+ [I want to fly endlessly, forever, never stopping]
+
+16
+00:01:00,370 --> 00:01:06,930
+SHO:
+ Kidou wo koe doko made mo kimi wo megakete
+ [Beyond the orbit, wherever you are, I’ll come for you]
+
+17
+00:01:06,930 --> 00:01:11,070
+REN:
+ We go up, we alright
+
+18
+00:01:11,070 --> 00:01:15,000
+REN:
+ Hikari wo oikakete
+ [Chasing the light]
+
+19
+00:01:15,000 --> 00:01:18,770
+JUNKI:
+ We go up, we alright
+
+20
+00:01:18,770 --> 00:01:23,350
+JUNKI:
+ Genkai nante nai, we alright
+ [There’s no limit, we alright]
+
+21
+00:01:23,350 --> 00:01:24,900
+SHION:
+ I’m chasing hikari oe
+ [I’m chasing beyond the light]
+
+22
+00:01:24,900 --> 00:01:26,720
+SHION:
+ Tobikoe, ready to unlock the wings
+[Jumping, ready to unlock the wings]
+
+23
+00:01:26,730 --> 00:01:30,610
+SHOSEI:
+ Yume wo jitsugen dekiru sono mabayui mirai wa kono te ni
+ [I can make my dreams real, that dazzling future is in these hands]
+
+24
+00:01:30,610 --> 00:01:31,110
+SYOYA:
+Oh yeah
+SHOSEI:
+ Yume wo jitsugen dekiru sono mabayui mirai wa kono te ni
+ [I can make my dreams real, that dazzling future is in these hands]
+
+25
+00:01:31,110 --> 00:01:31,150
+SYOYA:
+Oh yeah
+
+26
+00:01:31,150 --> 00:01:34,660
+SYOYA:
+ It's coming to prime time, ay, habatake tooku ni right now
+ [It's coming to prime time, ay, fly far away right now]
+
+27
+00:01:34,660 --> 00:01:37,030
+RUKI:
+ Matte ita shunkan ga kiteiru shine uchuu e
+ [The moment we have been waiting for is coming, shine into space]
+
+28
+00:01:37,030 --> 00:01:39,660
+RUKI:
+ We rockin’ around the star
+
+29
+00:01:40,830 --> 00:01:45,170
+SUKAI:
+ Nagai yoru hate no yume de mita
+ [I saw it in a dream at the end of a long night]
+
+30
+00:01:45,170 --> 00:01:48,800
+MAME:
+ Kiseki yori motto kiseki no you na
+ [Even more miraculous than a miracle]
+
+31
+00:01:48,800 --> 00:01:52,720
+KEIGO:
+ Hateshinai jikan wo hashiri tsudzukete
+ [Running through endless time]
+
+32
+00:01:52,720 --> 00:01:56,600
+REN (JUNKI):
+ Me ni yakitsuketai (sekai wo)
+ [I want to sear it into my memory (the world)]
+
+33
+00:01:56,600 --> 00:02:00,270
+SHO:
+ Unmei ni makasenai
+ [I won’t leave it to fate]
+
+34
+00:02:00,270 --> 00:02:04,060
+SUKAI:
+ Tayoru koto nai
+ [It’s undependable]
+
+35
+00:02:04,060 --> 00:02:06,050
+MAME:
+ Mienakute ii run up
+ [You don’t have to see it, run up]
+
+36
+00:02:06,050 --> 00:02:08,220
+MAME:
+ Jibun wo koete ike rise up
+ [Surpass yourself, rise up]
+
+37
+00:02:08,220 --> 00:02:08,230
+TAKUMI:
+ We go, we alright
+MAME:
+ Jibun wo koete ike rise up
+ [Surpass yourself, rise up]
+
+38
+00:02:08,230 --> 00:02:10,990
+TAKUMI:
+ We go, we alright
+
+39
+00:02:11,130 --> 00:02:14,330
+REN:
+ Mugen ni tobitai
+ [I want to fly endlessly]
+
+40
+00:02:14,330 --> 00:02:20,000
+REN:
+ Itsu made mo tomaru koto naku
+ [Forever, never stopping]
+
+41
+00:02:20,000 --> 00:02:22,070
+JUNKI:
+ Kidou wo koe
+ [Beyond the orbit]
+
+42
+00:02:22,070 --> 00:02:27,080
+JUNKI:
+ Doko made mo kimi wo megakete
+ [Wherever you are, I’ll come for you]
+
+43
+00:02:27,080 --> 00:02:28,810
+SHOSEI:
+ Can you see me, right now, right there
+
+44
+00:02:28,810 --> 00:02:30,750
+SHOSEI:
+ Minna ga mireru you ni
+ [So that everyone can see it]
+
+45
+00:02:30,750 --> 00:02:34,550
+SHION:
+ Moeru honoo atsui mune kanjiru you ni everywhere
+ [So that I can feel the flames burning in my heart everywhere]
+
+46
+00:02:34,550 --> 00:02:38,220
+RUKI:
+ Kono kuukan sae mo, sono jikan sae mo
+ [Even in this space, even at that time]
+
+47
+00:02:38,220 --> 00:02:42,160
+SYOYA:
+ Koe egaiteta mirai sono kibou kanaeru you ni
+ [The future I envisioned beyond so I can make my wish come true]
+
+48
+00:02:42,160 --> 00:02:45,190
+TAKUMI:
+ Mugen ni tobitai
+ [I want to fly endlessly]
+
+49
+00:02:45,190 --> 00:02:50,770
+TAKUMI:
+ Itsu made mo tomaru koto naku
+ [Forever, never stopping]
+
+50
+00:02:50,770 --> 00:02:53,000
+SHO:
+ Kidou wo koe
+ [Beyond the orbit]
+
+51
+00:02:53,000 --> 00:02:57,340
+SHO:
+ Doko made mo kimi wo megakete
+ [Wherever you are, I’ll come for you]
+
+52
+00:02:57,340 --> 00:03:01,410
+REN:
+ We go up, we alright
+
+53
+00:03:01,410 --> 00:03:05,350
+REN:
+ Hikari wo oikakete
+ [Chasing the light]
+
+54
+00:03:05,350 --> 00:03:09,280
+JUNKI:
+ We go up, we alright
+
+55
+00:03:09,280 --> 00:03:16,180
+JUNKI:
+ Genkai nante nai, we alright
+ [There’s no limit, we alright]
