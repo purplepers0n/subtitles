@@ -1,0 +1,384 @@
+﻿1
+00:00:00,000 --> 00:00:08,260
+[Translation & romaji by Shin @cshinjam,
+timing & formatting by Berry @BerryMagic_]
+
+2
+00:00:12,470 --> 00:00:14,970
+SHION:
+ Kono GAME wa we never give up
+ [We never give up on this GAME]
+
+3
+00:00:14,970 --> 00:00:17,830
+SHION:
+ Monku no nai itte de buchi kamasu
+ [We’ll strike with one perfect move]
+
+4
+00:00:17,830 --> 00:00:22,520
+RUKI:
+ Kowagarazu ni tada susume
+ [Going forward without fear]
+
+5
+00:00:22,520 --> 00:00:27,990
+JUNKI:
+ Fusawashii michi wa red carpet, dare mo ikenai toko e
+ [The most befitting path is the red carpet, to where nobody else can go]
+
+6
+00:00:27,990 --> 00:00:33,220
+TAKUMI:
+ Iwaou mirai we’re gonna be a new star
+ [Celebrate the future, we’re gonna be a new star]
+
+7
+00:00:33,220 --> 00:00:41,830
+SUKAI:
+ Kore wa unmei nan da, kyuukutsu na basho kara nuke dasu no sa
+ [This is fate, break out of a tight spot]
+
+8
+00:00:41,830 --> 00:00:43,890
+You don’t know about me
+SUKAI:
+ Kore wa unmei nan da, kyuukutsu na basho kara nuke dasu no sa
+ [This is fate, break out of a tight spot]
+
+9
+00:00:43,890 --> 00:00:44,560
+You don’t know about me
+
+10
+00:00:44,570 --> 00:00:47,160
+KEIGO:
+ Taiyou yori mo
+ [Burn hotter than the sun]
+
+11
+00:00:47,160 --> 00:00:49,550
+MAME:
+ Atsuku moete ike
+ [Burn hotter than the sun]
+
+12
+00:00:49,550 --> 00:00:54,770
+SHO:
+ Saa tanoshimou kono subarashiki battlefield
+ [Let’s enjoy this grand battlefield]
+
+13
+00:00:54,780 --> 00:00:57,940
+SYOYA:
+ Algorithm mi wo yudanete
+ [Surrender yourself to the Algorithm]
+
+14
+00:00:57,940 --> 00:01:02,650
+REN:
+ Osore nante no problem, hashiri tsudzukeru no sa
+ [Fear is no problem, I'll keep on running]
+
+15
+00:01:02,650 --> 00:01:08,550
+SUKAI:
+ Algorithm, algorithm, algorithm mi wo yudanete
+ [Algorithm, algorithm, surrender yourself to the algorithm]
+
+16
+00:01:08,550 --> 00:01:13,490
+JUNKI:
+ Gyakkyou koso ga step up, donna teki datte welcome
+ [We step up to adversity, welcome any opponent]
+
+17
+00:01:13,490 --> 00:01:18,640
+SHOSEI:
+ Algorithm, algorithm, algorithm mi wo yudanete
+ [Algorithm, algorithm, surrender yourself to the algorithm]
+
+18
+00:01:18,770 --> 00:01:21,060
+RUKI:
+ Cheese on the trap, ch-cheese on the trap
+
+19
+00:01:21,260 --> 00:01:23,030
+RUKI:
+ Cheese on the trap, ch-cheese on the trap
+
+20
+00:01:23,030 --> 00:01:24,130
+KEIGO:
+ Jama wa dekinai
+ [You can’t get in my way]
+RUKI:
+ Cheese on the trap, ch-cheese on the trap
+
+21
+00:01:24,130 --> 00:01:24,180
+KEIGO:
+ Jama wa dekinai
+ [You can’t get in my way]
+
+22
+00:01:24,180 --> 00:01:26,520
+SHOSEI:
+ Cheese on the trap, ch-cheese on the trap
+KEIGO:
+ Jama wa dekinai
+ [You can’t get in my way]
+
+23
+00:01:26,520 --> 00:01:26,670
+KEIGO:
+ Jama wa dekinai
+ [You can’t get in my way]
+
+24
+00:01:26,820 --> 00:01:29,710
+SHOSEI:
+ Cheese on the trap, ch-cheese on the trap
+
+25
+00:01:29,710 --> 00:01:32,420
+SYOYA:
+ Junban katte ni kaete minna ga migi narae
+ [Change the order as I please and everyone follows suit]
+
+26
+00:01:32,420 --> 00:01:35,020
+SYOYA:
+ Nuke dasenai mugen loop no naka iru ne
+ [In an infinite loop that you can't get out of]
+
+27
+00:01:35,020 --> 00:01:40,383
+SHION:
+ Guuzen na no? Unmei na no? Kimi no category kowashite ageru
+ [Is this a coincidence? Is this fate? I'll break your category]
+
+28
+00:01:40,383 --> 00:01:42,990
+MAME:
+ Wake up, wake up, motto hayaku
+ [Wake up, wake up, faster]
+
+29
+00:01:42,990 --> 00:01:44,420
+SHION:
+ Build up, build up
+
+30
+00:01:44,420 --> 00:01:45,500
+KEIGO:
+ Dare yori mo
+ [More than anyone]
+
+31
+00:01:45,500 --> 00:01:50,510
+SUKAI:
+ Something high, something high, when I touch you, bae
+
+32
+00:01:50,510 --> 00:01:53,210
+JUNKI:
+ Kore wa unmei nan da
+ [This is fate]
+
+33
+00:01:53,210 --> 00:01:58,840
+JUNKI:
+ Kyuukutsu na basho kara nuke dasu no sa
+ [Break out of a tight spot]
+
+34
+00:01:58,840 --> 00:02:01,680
+You don’t know about me
+JUNKI:
+ Kyuukutsu na basho kara nuke dasu no sa
+ [Break out of a tight spot]
+
+35
+00:02:01,680 --> 00:02:01,810
+You don’t know about me
+
+36
+00:02:01,820 --> 00:02:04,070
+SHO:
+ Taiyou yori mo
+ [Burn hotter than the sun]
+
+37
+00:02:04,070 --> 00:02:06,860
+KEIGO:
+ Atsuku moete ike
+ [Burn hotter than the sun]
+
+38
+00:02:06,860 --> 00:02:12,080
+TAKUMI:
+ Saa tanoshimou kono subarashiki battlefield
+ [Let’s enjoy this grand battlefield]
+
+39
+00:02:12,080 --> 00:02:15,360
+SHION:
+ Algorithm mi wo yudanete
+ [Surrender yourself to the Algorithm]
+
+40
+00:02:15,360 --> 00:02:19,840
+TAKUMI:
+ Osore nante no problem, hashiri tsudzukeru no sa
+ [Fear is no problem, I'll keep on running]
+
+41
+00:02:19,840 --> 00:02:25,740
+SYOYA:
+ Algorithm, algorithm, algorithm mi wo yudanete
+ [Algorithm, algorithm, surrender yourself to the algorithm]
+
+42
+00:02:25,740 --> 00:02:30,630
+REN:
+ Gyakkyou koso ga step up, donna teki datte welcome
+ [We step up to adversity, welcome any opponent]
+
+43
+00:02:30,630 --> 00:02:36,450
+SUKAI:
+ Algorithm, algorithm, algorithm mi wo yudanete
+ [Algorithm, algorithm, surrender yourself to the algorithm]
+
+44
+00:02:36,450 --> 00:02:43,960
+JUNKI:
+ Feel it oh, feel it oh, egaite iku no wa new days
+ [Feel it oh, feel it oh, what I envisioned is new days]
+
+45
+00:02:43,960 --> 00:02:47,030
+REN:
+ Puzzle kumi tateru
+ [Assemble the puzzle]
+
+46
+00:02:47,030 --> 00:02:52,000
+MAME:
+ Right now, right now, karada ga atsuku naru
+ [Right now right now, my body is getting hotter]
+
+47
+00:02:52,130 --> 00:02:57,010
+SHO:
+ Kesu koto no dekinai kono honoo
+ [This flame that cannot be put out]
+
+48
+00:02:57,170 --> 00:03:03,080
+SYOYA:
+ Just Algorithm
+
+49
+00:03:03,080 --> 00:03:05,368
+SYOYA:
+ Kakusu hitsuyou wa nai sa
+ [There’s no need to hide it]
+
+50
+00:03:05,368 --> 00:03:08,850
+SYOYA:
+ Omoi no mama sakebu naraba top
+ [If you scream your heart out, you’re on top]
+
+51
+00:03:08,850 --> 00:03:13,590
+SHION:
+ Algorithm
+
+52
+00:03:13,720 --> 00:03:16,280
+SHION:
+ Mukashi no jibun ni ima goodbye
+ [Now I say goodbye to the old me]
+
+53
+00:03:16,280 --> 00:03:18,980
+TAKUMI:
+ Focus subete wo kassarau
+ [Focus, grab everything]
+
+54
+00:03:18,980 --> 00:03:21,550
+SHOSEI:
+ Algorithm mi wo yudanete
+ [Surrender yourself to the Algorithm]
+
+55
+00:03:21,550 --> 00:03:26,890
+REN:
+ Osore nante no problem, hashiri tsudzukeru no sa
+ [Fear is no problem, I'll keep on running]
+
+56
+00:03:26,890 --> 00:03:32,160
+RUKI:
+ Algorithm, algorithm, algorithm mi wo yudanete
+ [Algorithm, algorithm, surrender yourself to the algorithm]
+
+57
+00:03:32,200 --> 00:03:37,600
+JUNKI:
+ Gyakkyou koso ga step up, donna teki datte welcome
+ [We step up to adversity, welcome any opponent]
+
+58
+00:03:37,600 --> 00:03:42,740
+SHO:
+ Algorithm, algorithm, algorithm mi wo yudanete
+ [Algorithm, algorithm, surrender yourself to the algorithm]
+
+59
+00:03:42,740 --> 00:03:45,340
+KEIGO:
+ Cheese on the trap, ch-cheese on the trap
+
+60
+00:03:45,440 --> 00:03:47,040
+KEIGO:
+ Cheese on the trap, ch-cheese on the trap
+
+61
+00:03:47,040 --> 00:03:48,140
+MAME:
+ Jama wa dekinai
+ [You can’t get in my way]
+KEIGO:
+ Cheese on the trap, ch-cheese on the trap
+
+62
+00:03:48,140 --> 00:03:48,210
+MAME:
+ Jama wa dekinai
+ [You can’t get in my way]
+
+63
+00:03:48,210 --> 00:03:50,430
+TAKUMI:
+ Cheese on the trap, ch-cheese on the trap
+MAME:
+ Jama wa dekinai
+ [You can’t get in my way]
+
+64
+00:03:50,430 --> 00:03:50,550
+TAKUMI:
+ Cheese on the trap, ch-cheese on the trap
+
+65
+00:03:50,790 --> 00:03:54,990
+TAKUMI:
+ Cheese on the trap, ch-cheese on the trap
+
