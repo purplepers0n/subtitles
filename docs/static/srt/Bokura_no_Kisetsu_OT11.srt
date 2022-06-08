@@ -1,280 +1,332 @@
-1
-00:00:00,333 --> 00:00:08,633
-[English translation and romaji transliteration by Luna @motto_yomitai,
-Timing/formatting by @BerryMagic_]
+﻿1
+00:00:02,152 --> 00:00:02,853
+...Huh?
 
 2
-00:00:21,479 --> 00:00:26,067
+00:00:03,854 --> 00:00:08,191
+KEIGO:
+Ah! What are you doing at such a place?
+
+3
+00:00:08,191 --> 00:00:11,028
+Sukai!
+
+4
+00:00:12,863 --> 00:00:14,398
+SUKAI:
+Hey~
+
+5
+00:00:14,398 --> 00:00:17,134
+Welcome back
+
+6
+00:00:21,838 --> 00:00:23,774
+RUKI:
+Let's go!
+
+7
+00:00:43,527 --> 00:00:48,131
 TAKUMI:
 Tsumetai kaze ga fuite kite
 [A cold wind's begun to blow]
 
-3
-00:00:26,067 --> 00:00:31,489
+8
+00:00:48,131 --> 00:00:53,537
 JUNKI:
 Awai omoide ga koku naru yo
 [These faint memories will deepen]
 
-4
-00:00:31,489 --> 00:00:38,288
+9
+00:00:53,537 --> 00:01:00,343
 KEIGO:
 Ki ga tsukeba kimi no na wo yonderu
 [Before I realise it, I'm calling out your name]
 
-5
-00:00:38,288 --> 00:00:42,709
+10
+00:01:00,343 --> 00:01:04,748
 SYOYA:
 Uh ochiba tte kimi to boku no omoide mitai
 [The fallen leaves resemble my memories with you]
 
-6
-00:00:42,709 --> 00:00:46,796
+11
+00:01:04,748 --> 00:01:08,852
 SHION:
 Uh iki mo dekizu ima tamaranai hodo ni koishii
 [I miss you so much I can't even breathe]
 
-7
-00:00:46,796 --> 00:00:50,759
+12
+00:01:08,852 --> 00:01:12,789
 SHO:
 Kurai yoru ni wa kimi ga ukabu kara
 [I think of you when the nights get dark]
 
-8
-00:00:50,759 --> 00:00:54,137
+13
+00:01:12,789 --> 00:01:16,193
 SHO:
 Hi ga kurenaide hoshii
 [So I don't want the sun to set]
 
-9
-00:00:54,137 --> 00:01:00,810
+14
+00:01:16,193 --> 00:01:22,866
 REN:
 Mattete kogoeru fuyu yori mo
 [Wait for me, I'll go and see you before the freezing winter comes]
 
-10
-00:01:00,810 --> 00:01:05,356
+15
+00:01:22,866 --> 00:01:27,404
 SUKAI:
 Saki ni ai ni iku yo
 [Wait for me, I'll go and see you before the freezing winter comes]
 
-11
-00:01:05,356 --> 00:01:08,860
+16
+00:01:27,404 --> 00:01:30,907
 TAKUMI:
 Shiroi kisetsu no naka
 [In the midst of that white season]
 
-12
-00:01:08,860 --> 00:01:12,489
+17
+00:01:30,907 --> 00:01:34,544
 MAME:
 Bokura wa kagayaiteta
 [The two of us were shining]
 
-13
-00:01:12,489 --> 00:01:16,576
+18
+00:01:34,544 --> 00:01:38,615
 JUNKI, RUKI:
 Ima sugu ni kimi ni ai ni iku yo
 [I'm coming to see you right now]
 
-14
-00:01:16,576 --> 00:01:20,830
+19
+00:01:38,615 --> 00:01:42,886
 KEIGO, SUKAI:
 Furi muitara ushiro ni iru yo
 [If you turn around, I'll be right behind you]
 
-15
-00:01:20,830 --> 00:01:22,791
+20
+00:01:42,886 --> 00:01:44,855
 REN, SHOSEI:
 Mou nogasanai
 [I won't let you go any more]
 
-16
-00:01:22,791 --> 00:01:26,252
+21
+00:01:44,855 --> 00:01:48,291
 REN, SHOSEI:
 Yakusoku suru kimi no
 [I promise never to let go of your hand]
 
-17
-00:01:26,252 --> 00:01:29,380
+22
+00:01:48,291 --> 00:01:51,428
 SHO, SYOYA:
 Te wo hanasanai
 [I promise never to let go of your hand]
 
-18
-00:01:29,380 --> 00:01:33,510
+23
+00:01:51,428 --> 00:01:55,565
 SHOSEI:
 Kimi no egao wa toki ga sugite mo
 [Even as time passes, your smile is still]
 
-19
-00:01:33,510 --> 00:01:37,472
+24
+00:01:55,565 --> 00:01:59,536
 SYOYA:
 Kage yori fukaku kizamareteru yo
 [Carved into me, deeper than the shadows]
 
-20
-00:01:37,472 --> 00:01:39,599
+25
+00:01:59,536 --> 00:02:01,638
 SHION:
 Moshimo, kimi mo onaji kana?
 [Could it be, that it's the same for you?]
 
-21
-00:01:39,599 --> 00:01:41,768
+26
+00:02:01,638 --> 00:02:03,807
 RUKI:
 Kitai shite mite mo ii kana?
 [Is it alright for me to hope?]
 
-22
-00:01:41,768 --> 00:01:45,730
+27
+00:02:03,807 --> 00:02:07,778
 SHOSEI:
 Kimi ni kikitai jikan wo koete
 [I want to ask you, but I'm running out of time]
 
-23
-00:01:45,730 --> 00:01:51,903
+28
+00:02:07,778 --> 00:02:13,950
 SHO:
 Kono mama kurayami ga ochiru mae ni
 [Like this, right before the darkness falls]
 
-24
-00:01:51,903 --> 00:01:54,989
+29
+00:02:13,950 --> 00:02:17,020
 SUKAI:
 Fuku kaze ni notte
 [I want to ride on that blowing wind]
 
-25
-00:01:54,989 --> 00:02:02,497
+30
+00:02:17,020 --> 00:02:24,561
 TAKUMI:
 Mou ichido modoritai ano mabushii kisetsu ni
 [And return to that bright season, once more]
 
-26
-00:02:02,497 --> 00:02:08,920
+31
+00:02:24,561 --> 00:02:30,967
 JUNKI:
 Mattete kogoeru fuyu yori mo
 [Wait for me, I'll go and see you before the freezing winter comes]
 
-27
-00:02:08,920 --> 00:02:13,299
+32
+00:02:30,967 --> 00:02:35,338
 SUKAI:
 Saki ni ai ni iku yo
 [Wait for me, I'll go and see you before the freezing winter comes]
 
-28
-00:02:13,299 --> 00:02:16,469
+33
+00:02:35,338 --> 00:02:38,508
 REN:
 Shiroi kisetsu no naka
 [In the midst of that white season]
 
-29
-00:02:16,469 --> 00:02:20,390
+34
+00:02:38,508 --> 00:02:42,446
 MAME:
 Bokura wa kagayaiteta
 [The two of us were shining]
 
-30
-00:02:20,390 --> 00:02:24,519
+35
+00:02:42,446 --> 00:02:46,550
 KEIGO, SHION:
 Ima sugu ni kimi ni ai ni iku yo
 [I'm coming to see you right now]
 
-31
-00:02:24,519 --> 00:02:28,857
+36
+00:02:46,550 --> 00:02:50,921
 MAME, RUKI:
 Furi muitara ushiro ni iru yo
 [If you turn around, I'll be right behind you]
 
-32
-00:02:28,857 --> 00:02:31,025
+37
+00:02:50,921 --> 00:02:53,090
 SHO, SYOYA:
 Mou nogasanai
 [I won't let you go any more]
 
-33
-00:02:31,025 --> 00:02:34,362
+38
+00:02:53,090 --> 00:02:56,426
 SHO, SYOYA:
 Yakusoku suru kimi no
 [I promise never to let go of your hand]
 
-34
-00:02:34,362 --> 00:02:37,156
+39
+00:02:56,426 --> 00:02:59,196
 SUKAI, SHOSEI:
 Te wo hanasanai
 [I promise never to let go of your hand]
 
-35
-00:02:37,156 --> 00:02:41,452
+40
+00:02:59,196 --> 00:03:03,500
 TAKUMI:
 Koori tsuku kisetsu ni
 [In this frozen season]
 
-36
-00:02:41,452 --> 00:02:45,707
+41
+00:03:03,500 --> 00:03:07,771
 KEIGO:
 Kaze dake ga nokotteru
 [Nothing remains but the wind]
 
-37
-00:02:45,707 --> 00:02:49,961
+42
+00:03:07,771 --> 00:03:12,008
 RUKI:
 Kimi ga inai to dekinai yo nan ni mo
 [Without you here, I can't do anything]
 
-38
-00:02:49,961 --> 00:02:53,339
+43
+00:03:12,008 --> 00:03:15,379
 JUNKI:
 Soba ni ite
 [Stay by my side]
 
-39
-00:02:53,339 --> 00:02:59,929
+44
+00:03:15,379 --> 00:03:21,985
 REN (JUNKI):
 Mattete kogoeru fuyu yori mo (hayaku)
 [Wait for me, I'll go and see you (quickly)]
 
-40
-00:02:59,929 --> 00:03:04,267
+45
+00:03:21,985 --> 00:03:26,323
 MAME (JUNKI):
 Saki ni ai ni iku yo (iku yo)
 [Before the freezing winter comes (I'll go now)]
 
-41
-00:03:04,267 --> 00:03:07,812
+46
+00:03:26,323 --> 00:03:29,860
 TAKUMI (JUNKI):
 Shiroi kisetsu no naka (soko de)
 [In the midst of that white season (right there)]
 
-42
-00:03:07,812 --> 00:03:11,399
+47
+00:03:29,860 --> 00:03:33,430
 SHO (REN/JUNKI):
 Bokura wa kagayaiteta (kagayaiteta)
 [The two of us were shining (we were shining)]
 
-43
-00:03:11,399 --> 00:03:15,570
+48
+00:03:33,430 --> 00:03:37,634
 MAME, SHION:
 Ima sugu ni kimi ni ai ni iku yo
 [I'm coming to see you right now]
 
-44
-00:03:15,570 --> 00:03:19,866
+49
+00:03:37,634 --> 00:03:41,905
 KEIGO, SUKAI:
 Furi muitara ushiro ni iru yo
 [If you turn around, I'll be right behind you]
 
-45
-00:03:19,866 --> 00:03:21,993
+50
+00:03:41,905 --> 00:03:44,041
 JUNKI, SHOSEI:
 Mou nogasanai
 [I won't let you go any more]
 
-46
-00:03:21,993 --> 00:03:25,371
+51
+00:03:44,041 --> 00:03:47,411
 JUNKI, SHOSEI:
 Yakusoku suru kimi no
 [I promise never to let go of your hand]
 
-47
-00:03:25,371 --> 00:03:30,835
+52
+00:03:47,411 --> 00:03:54,317
 REN, RUKI:
 Te wo hanasanai
 [I promise never to let go of your hand]
+
+53
+00:03:56,687 --> 00:03:59,222
+SHO:
+Sukai, welcome back
+
+54
+00:04:00,957 --> 00:04:02,659
+SUKAI:
+Thank you!
+
+55
+00:04:03,827 --> 00:04:07,364
+SYOYA:
+"Kimi ga inai to dekinai yo nan ni mo"
+[Without you here, I can't do anything]
+
+56
+00:04:07,364 --> 00:04:11,435
+"Soba ni ite"
+[Stay by my side]
+
+57
+00:04:15,672 --> 00:04:16,606
+SUKAI:
+See you!
+
+58
+00:04:16,673 --> 00:04:22,979
+See you~
