@@ -1,0 +1,400 @@
+﻿1
+00:00:00,396 --> 00:00:05,359
+[Translation by Luna @motto_yomitai,
+Timing & formatting by Berry @BerryMagic_]
+
+2
+00:00:05,710 --> 00:00:09,460
+JUNKI, TAKUMI:
+ Move the soul, jibun wo koete
+ [Move the soul, surpass yourself]
+
+3
+00:00:09,460 --> 00:00:12,220
+SHO:
+ Michi no sekai e, go up
+ [Go up towards an unknown world]
+
+4
+00:00:12,220 --> 00:00:13,760
+MAME:
+ I can make my history
+
+5
+00:00:13,760 --> 00:00:17,470
+TAKUMI, REN:
+ Move the soul, koukai wa shinai
+ [Move the soul, got no regrets]
+
+6
+00:00:17,470 --> 00:00:20,220
+JUNKI:
+ Kirameku showtime, blow up
+ [Blow up this shimmering showtime]
+
+7
+00:00:20,220 --> 00:00:23,230
+RUKI:
+ I can make my fantasy, right now
+
+8
+00:00:23,230 --> 00:00:27,010
+MAME:
+ Meiro no naka deguchi sagashite
+ [Looking for an exit in this maze]
+
+9
+00:00:27,010 --> 00:00:31,240
+REN:
+ Hayaku naru toki wo tsukamunda
+ [I'll grasp hold of this time that's quickening]
+
+10
+00:00:31,240 --> 00:00:35,160
+KEIGO:
+ Seikai no nai kotae motomete
+ [Searching for an answer, but no correct one exists]
+
+11
+00:00:35,160 --> 00:00:38,180
+SHO:
+ Samayou koto wa mou, stop it
+ [It's about time to stop wandering around]
+
+12
+00:00:38,180 --> 00:00:41,040
+SYOYA:
+ Moyaseru bun follow, kachitoru kono race & role
+ [Follow what you can burn, gain this race & role]
+
+13
+00:00:41,040 --> 00:00:42,790
+SHION:
+ Hi wo kaze ni nosete finale
+ [Set fire to the wind as the finale]
+
+14
+00:00:42,790 --> 00:00:45,610
+SHOSEI:
+ Yume no goal mukatte kogasou ima wo
+ [We’ll burn this moment till we reach the goal of our dreams]
+
+15
+00:00:45,610 --> 00:00:46,500
+SHION:
+ Todoku made
+ [We’ll burn this moment till we reach the goal of our dreams]
+
+16
+00:00:46,500 --> 00:00:50,130
+SYOYA:
+ Start, set, OK, ima da here we go
+ [Start, set, OK, now's the time, here we go]
+
+17
+00:00:50,300 --> 00:00:53,300
+JUNKI, SHOSEI:
+ Ano denkousekka no hibi ga kazaru rainbow
+ [A rainbow adorned by those days that went by in a flash]
+
+18
+00:00:53,470 --> 00:00:54,090
+SHION:
+ Ride on
+
+19
+00:00:54,260 --> 00:00:56,080
+TAKUMI:
+ Chizu-doori no mirai
+ [A perfectly-planned future, a predetermined tomorrow, they no longer exist]
+
+20
+00:00:56,080 --> 00:01:00,180
+SHO:
+ Kimerareta asu wa mou nai
+ [A perfectly-planned future, a predetermined tomorrow, they no longer exist]
+
+21
+00:01:00,350 --> 00:01:01,640
+KEIGO:
+ Jiyuu-jizai ni
+ [You're in control, now]
+
+22
+00:01:01,810 --> 00:01:03,670
+Move the soul
+
+23
+00:01:03,670 --> 00:01:05,440
+TAKUMI:
+ Jibun wo koete
+ [Surpass yourself]
+
+24
+00:01:05,440 --> 00:01:08,230
+SHO:
+ Michi no sekai e, go up
+ [Go up to an unknown world]
+
+25
+00:01:08,230 --> 00:01:10,130
+MAME:
+ I can make my history
+
+26
+00:01:10,130 --> 00:01:11,550
+Move the soul
+
+27
+00:01:11,550 --> 00:01:13,490
+REN:
+ Koukai wa shinai
+ [Got no regrets]
+
+28
+00:01:13,490 --> 00:01:16,070
+JUNKI:
+ Kirameku showtime, blow up
+ [Blow up this shimmering showtime]
+
+29
+00:01:16,240 --> 00:01:18,780
+RUKI, SHION:
+ I can make my fantasy, right now
+
+30
+00:01:18,950 --> 00:01:23,000
+Oh oh oh oh oh, movin' on, movin' on
+
+31
+00:01:23,000 --> 00:01:24,810
+Turn it up, turn it up
+
+32
+00:01:24,810 --> 00:01:27,000
+RUKI:
+ Move the soul right now
+
+33
+00:01:27,000 --> 00:01:30,920
+Oh oh oh oh oh, movin' on, movin' on
+
+34
+00:01:30,920 --> 00:01:32,950
+Turn it up, turn it up
+
+35
+00:01:32,950 --> 00:01:36,030
+TAKUMI:
+ Move the soul right now
+
+36
+00:01:36,760 --> 00:01:38,640
+SHION:
+ Furimuku koto dekinai, I don't stop
+ [I can't look back, I don't stop]
+
+37
+00:01:38,640 --> 00:01:40,720
+SYOYA:
+ Tadoritsuku basho kimatteru start
+ [When I start, the end is already determined]
+
+38
+00:01:40,720 --> 00:01:42,760
+SHION:
+ Racing and chasing, yume no chance
+ [Racing and chasing a chance at a dream]
+
+39
+00:01:42,760 --> 00:01:45,251
+SYOYA:
+ Egake hajimari no iro wa bright
+ [I start painting with a color so bright]
+
+40
+00:01:45,251 --> 00:01:48,560
+REN:
+ Karada jyuu no endorphin ga
+ [Endorphins running through my body are]
+
+41
+00:01:48,560 --> 00:01:51,380
+JUNKI, SHION:
+ Spinning, spinning, odorasete okou
+ [Spinning, spinning, I'll make them dance]
+
+42
+00:01:51,380 --> 00:01:52,680
+RUKI:
+ Kono beat ni
+ [To this beat]
+
+43
+00:01:52,680 --> 00:01:56,110
+MAME:
+ Yoko wo sugi yuku keshiki no light
+ [Lights from the scenery that passes by]
+
+44
+00:01:56,110 --> 00:01:59,990
+RUKI:
+ Sono ten to ten wo ima koso tsunagou, set on
+ [Connect those dots, now's precisely the time, set on]
+
+45
+00:01:59,990 --> 00:02:02,140
+TAKUMI:
+ Machigai no nai mirai
+ [A future without mistakes, a predetermined tomorrow, they no longer exist]
+
+46
+00:02:02,140 --> 00:02:06,290
+KEIGO:
+ Kimerareta asu wa mou nai
+ [A future without mistakes, a predetermined tomorrow, they no longer exist]
+
+47
+00:02:06,290 --> 00:02:07,710
+SHO:
+ Genkai made
+ [To the limit]
+
+48
+00:02:07,710 --> 00:02:11,500
+TAKUMI, JUNKI:
+ Move the soul, jounetsu wo ima
+ [Move the soul, let your passions overlap now, go up]
+
+49
+00:02:11,500 --> 00:02:14,250
+SHO:
+ Kasaneru no sa, go up
+ [Move the soul, let your passions overlap now, go up]
+
+50
+00:02:14,250 --> 00:02:15,800
+KEIGO:
+ Hajimaru history
+ [History begins]
+
+51
+00:02:15,800 --> 00:02:19,340
+JUNKI, REN:
+ Move the soul, ichido shika nai
+ [Move the soul, blow up this one-time-only showtime]
+
+52
+00:02:19,510 --> 00:02:22,163
+TAKUMI:
+ Kanpeki na showtime, blow up
+ [Move the soul, blow up this one-time-only showtime]
+
+53
+00:02:22,163 --> 00:02:26,060
+RUKI:
+ Owaranai fantasy, right now
+ [A never-ending fantasy, right now]
+
+54
+00:02:30,230 --> 00:02:32,170
+RUKI:
+ Faster, faster
+
+55
+00:02:38,320 --> 00:02:40,930
+SHOSEI:
+ Faster, faster
+
+56
+00:02:43,270 --> 00:02:48,370
+REN:
+ Tomadotteru hima nanka nai kara
+ [There's no time to be bewildered]
+
+57
+00:02:48,540 --> 00:02:51,120
+MAME:
+ Mata tachiagare on your own
+ [Get up again on your own]
+
+58
+00:02:51,290 --> 00:02:56,210
+TAKUMI:
+ We gotta decide, setsuna no shoubu no sekai
+ [We gotta decide, in this world it's all determined in an instant]
+
+59
+00:02:56,210 --> 00:02:58,157
+JUNKI:
+ Mou ichido tobikomu
+ [We'll jump in again]
+
+60
+00:02:58,157 --> 00:02:59,700
+Move the soul
+
+61
+00:02:59,700 --> 00:03:01,340
+TAKUMI:
+ Jibun wo koete
+ [Surpass yourself]
+
+62
+00:03:01,510 --> 00:03:04,050
+SHO:
+ Michi no sekai e, go up
+ [Go up to an unknown world]
+
+63
+00:03:04,220 --> 00:03:05,810
+MAME:
+ I can make my history
+
+64
+00:03:05,810 --> 00:03:07,670
+Move the soul
+
+65
+00:03:07,670 --> 00:03:09,520
+REN:
+ Koukai wa shinai
+ [Got no regrets]
+
+66
+00:03:09,690 --> 00:03:11,980
+TAKUMI:
+ Kirameku showtime, blow up
+ [Blow up this shimmering showtime]
+
+67
+00:03:12,150 --> 00:03:15,049
+SHOSEI:
+ I can make my fantasy, Right now
+
+68
+00:03:15,049 --> 00:03:18,802
+Oh oh oh oh oh, movin' on, movin' on
+
+69
+00:03:18,802 --> 00:03:21,100
+Turn it up, turn it up
+
+70
+00:03:21,100 --> 00:03:22,973
+RUKI:
+Move the soul right now
+
+71
+00:03:22,973 --> 00:03:27,061
+Oh oh oh oh oh, movin' on, movin' on
+
+72
+00:03:27,061 --> 00:03:28,900
+Turn it up, turn it up
+
+73
+00:03:28,900 --> 00:03:30,960
+TAKUMI: 
+Move the soul right now
+
