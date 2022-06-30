@@ -149,7 +149,7 @@
         var style = document.createElement('style');
         style.id = CSS.ID;
         style.type = 'text/css';
-        style.innerHTML = "\n    ." + CSS.CLASS + " { position: absolute; display: none; z-index: 0; pointer-events: none; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; font-size: 15px; text-align: center; }\n    ." + CSS.CLASS + " span { background: rgba(0, 0, 0, 0.6); padding: 1px 4px; display: inline-block; margin-bottom: 1px; }\n    ." + CSS.CLASS + "." + CSS.FULLSCREEN_IGNORE + " { display: none !important; }\n    ." + CSS.CLASS + "." + CSS.FULLSCREEN + " { z-index: 3000000000; }\n  ";
+        style.innerHTML = "\n    ." + CSS.CLASS + " { position: absolute; display: none; z-index: 0; pointer-events: none; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; font-size: 15px; text-align: center; }\n    ." + CSS.CLASS + " span { background: rgba(0, 0, 0, 0.7); padding: 1px 4px; display: inline-block; margin-bottom: 1px; }\n    ." + CSS.CLASS + "." + CSS.FULLSCREEN_IGNORE + " { display: none !important; }\n    ." + CSS.CLASS + "." + CSS.FULLSCREEN + " { z-index: 3000000000; }\n  ";
         var head = document.getElementsByTagName('head')[0] || document.documentElement;
         head.insertBefore(style, head.firstChild);
         document.addEventListener('fullscreenchange', fullscreenChangeHandler);
