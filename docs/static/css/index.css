@@ -57,12 +57,36 @@ body {
 }
 
 .sidebar-heading {
-  font-size: .75rem;
+  font-size: .8rem;
   text-transform: uppercase;
   color: #FF6B6B;
 }
 
-.sidebar-heading:after {
+.sidebar-heading:hover {
+  color: #96CDFF;
+  cursor: pointer;
+}
+
+.sidebar-subheading {
+  font-size: .72rem;
+  color: #68b3e4;
+  text-transform: uppercase;
+}
+
+[id^="togList"],                        /* HIDE CHECKBOX */
+[id^="togList"] ~ .list,                /* HIDE LIST */
+[id^="togList"] + label  span + span,   /* HIDE "Collapse" */
+[id^="togList"]:checked + label span{   /* HIDE "Expand" (IF CHECKED) */
+  display:none;
+}
+[id^="togList"]:checked + label span + span{
+  display:inline-block;                 /* SHOW "Collapse" (IF CHECKED) */
+}
+[id^="togList"]:checked ~ .list{
+  display:block;                        /* SHOW LIST (IF CHECKED) */
+}
+
+[id^="togList"]:checked + .sidebar-heading:after {
   color: #FFADAD;
   content: "";
   flex: 1 1;
