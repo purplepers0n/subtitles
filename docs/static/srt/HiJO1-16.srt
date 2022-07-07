@@ -514,7 +514,7 @@ Youth
 122
 00:07:01,420 --> 00:07:08,194
 - Breed...Umm...
-[Q. If  you were a dog which breed would you be?]
+[Q. If you were a dog which breed would you be?]
 
 123
 00:07:08,194 --> 00:07:10,029
@@ -586,13 +586,12 @@ That
 
 140
 00:08:07,553 --> 00:08:10,056
-[EP10. Secret Mission]
+[EP 10. Secret Mission]
 [Before mission starts, Mame & Sho playing with pointing stick]
 
 141
 00:08:10,056 --> 00:08:11,757
-
-[EP10. Secret Mission]
+[EP 10. Secret Mission]
 
 142
 00:08:13,826 --> 00:08:15,695
@@ -794,213 +793,216 @@ Hm?
 [Takumi who had too much fun during the game...]
 
 190
+00:10:31,797 --> 00:10:33,532
+[Keigo who discovered Takumi]
+
+191
 00:10:34,066 --> 00:10:36,602
 [I'll roll you!]
 
-191
+192
 00:10:37,536 --> 00:10:39,271
 [Roll roll]
 
-192
+193
 00:10:42,808 --> 00:10:45,711
 - Both of you squeeze him
 [In the middle of team punishment game]
 [Onigiri team playing with giant bubble]
 
-193
+194
 00:10:45,711 --> 00:10:47,480
 - That would hurt!
 [In the middle of team punishment game]
 [Onigiri team playing with giant bubble]
 
-194
+195
 00:10:47,480 --> 00:10:48,948
 Ready...go!
 
-195
+196
 00:10:50,516 --> 00:10:51,651
 Ah, it doesn't hurt
 
-196
+197
 00:10:51,651 --> 00:10:52,918
 - Really??
 - It doesn't hurt
 
-197
+198
 00:10:52,918 --> 00:10:54,453
 - Then I'll go in
 - Really?
 
-198
+199
 00:10:54,687 --> 00:10:55,354
 Let's do it
 
-199
+200
 00:10:55,354 --> 00:10:56,656
 Ready...go
 
-200
+201
 00:10:57,957 --> 00:11:00,760
 It hurts!
 
-201
+202
 00:11:00,760 --> 00:11:01,727
 It hurts a lot!
 
-202
+203
 00:11:03,396 --> 00:11:05,064
 Ready...go
 
-203
+204
 00:11:08,868 --> 00:11:10,469
 It feels good
 
-204
+205
 00:11:10,469 --> 00:11:11,370
 It feels good
 [A tough front]
 
-205
+206
 00:11:11,737 --> 00:11:13,205
 I'll try it once with Junki-kun
 
-206
+207
 00:11:15,708 --> 00:11:18,010
 [Ren -> Sukai player change]
 
-207
+208
 00:11:23,149 --> 00:11:25,584
 [Escape]
 
-208
+209
 00:11:29,288 --> 00:11:33,225
 [EP 14. Strawberry picking]
 
-209
+210
 00:11:33,225 --> 00:11:35,961
 - I'll tell you a strawberry fun fact
 [Junki's strawberry fun fact course!]
 
-210
+211
 00:11:36,696 --> 00:11:42,902
 Strawberries have these grains, don't they?
 
-211
+212
 00:11:42,902 --> 00:11:44,470
 That is the actual fruit
 
-212
+213
 00:11:46,305 --> 00:11:48,941
 [The grainy bits on the surface of the strawberry is the actual fruit]
 
-213
+214
 00:11:48,941 --> 00:11:49,809
 I have another
 
-214
+215
 00:11:51,410 --> 00:11:57,817
 Strawberries is a fruit introduced by the Dutch
 [Strawberry fun fact ②]
 
-215
+216
 00:11:59,318 --> 00:12:01,620
 Apparently they used to be called Dutch strawberries
 
-216
+217
 00:12:03,155 --> 00:12:04,256
 I have another
 
-217
+218
 00:12:04,256 --> 00:12:05,725
 You have so many!
 
-218
+219
 00:12:06,058 --> 00:12:06,659
 I have another
 
-219
+220
 00:12:06,659 --> 00:12:07,593
 You have so many!
 
-220
+221
 00:12:07,593 --> 00:12:08,194
 I have another
 
-221
+222
 00:12:10,529 --> 00:12:13,566
 The tip of strawberries are sweet
 
-222
+223
 00:12:13,566 --> 00:12:14,433
 Yeah
 
-223
+224
 00:12:14,433 --> 00:12:20,840
 They're sweet...so the end of the strawberries taste a little sour
 
-224
+225
 00:12:20,840 --> 00:12:24,877
 So if you eat from the end first, your level of happiness increases
 [Strawberry fun fact ③]
 
-225
+226
 00:12:28,647 --> 00:12:29,482
 I still have another
 
-226
+227
 00:12:29,482 --> 00:12:31,250
 (You still have another? LOL)
 
-227
+228
 00:12:32,118 --> 00:12:33,619
 Strawberries are...
 
-228
+229
 00:12:36,589 --> 00:12:37,857
 Strawberries are...
 
-229
+230
 00:12:37,857 --> 00:12:39,125
 [Ren's strawberry fun fact]
 
-230
+231
 00:12:39,125 --> 00:12:41,627
 ...Delicious!
 
-231
+232
 00:12:44,997 --> 00:12:49,034
 Ah, strawberries are classified as vegetables
 
-232
+233
 00:12:49,034 --> 00:12:50,469
 [Strawberry fun fact ④]
 [Strawberries are classified as vegetables]
 
-
-233
+234
 00:12:50,469 --> 00:12:51,570
 It's true!
 
-234
-00:12:52,805 --> 00:12:55,441
-Yes, if you were to state its' class, it's a vegetable
-
 235
+00:12:52,805 --> 00:12:55,441
+Yes, if you were to state its class, it's a vegetable
+
+236
 00:12:56,709 --> 00:12:57,309
 That's all
 
-236
+237
 00:12:57,309 --> 00:12:58,544
 [Junki's strawberry fun fact course END]
 
-237
+238
 00:12:58,544 --> 00:13:00,079
 Itadakimasu
 
-238
+239
 00:13:08,354 --> 00:13:09,321
 Yum!
 
-239
-00:13:09,855 --> 00:13:12,091
+240
+00:13:09,855 --> 00:13:14,693
 [Translation & timing by @cshinjam]
