@@ -1,0 +1,60 @@
+<div align=center>
+  <h1 style='padding: 2rem 1rem 1rem; width: 40vw;  min-width: 330px; color: #68b3e4;'>Softsub (.srt) Tutorial</h1>
+  <p style='padding: 1rem; font-size: 1rem; width: 40vw;  min-width: 330px;'>
+    This tutorial aims to help translators who wish to contribute but are not familiar with making softsubs (.srt files).<br><br>
+    This tutorial will be done using a free editing software, <a class="link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">Davinci Resolve</a> (This tutorial will not go through the downloading/installation of the software).
+    Note that there may be slight variations across different versions of the software, the version in this tutorial is 17.
+    Many subbers like to use Aegisub instead, but Davinci Resolve is highly recommeded for those familiar with the standard timeline-based video editors, and it just has a more user-friendly user interface.
+  </p>
+  <h4 class='subheader d-flex align-items-center'>
+    <span>Step 1: Setting up the project file</span>
+  </h4>
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    Open Davinci Resolve software and you will be prompted to select an existing or create a new project. Double-click on <b>Untitled Project</b> to start a new project file.
+  </p>
+  <img style='max-width: 100%; width: 38vw; min-width: 330px; height: auto; padding-bottom: 2rem;' src="static/img/srt-tutorial/01.png">
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    By default, DR timeline starts at 01:00 hr. We want the exported subtitle timing to match the video exactly, so we will shift this default to 00:00 hr (You only have to change this <i>once</i>, and don't have to worry about this in the future!) <br>
+    On the topmost bar, click <b>Davinci Resolve > Preferences...</b> and in the pop up, select <b>User > Editing</b>, change the Start Timecode to 00:00. Save and you're done.
+  </p>
+  <img style='max-width: 100%; width: 38vw; min-width: 330px; height: auto; padding-bottom: 2rem;' src="static/img/srt-tutorial/03.png">
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    Right click on the media pool and click <b>Import Media</b> (or <b>Ctrl-I</b>) to import your YouTube video file (which you can download using any 3rd party YouTube video downloader/recorder). You may be prompted to change the project frame rate to match the video, we advise to just click 'Change'.
+  </p>
+  <img style='max-width: 100%; width: 38vw; min-width: 330px; height: auto; padding-bottom: 2rem;' src="static/img/srt-tutorial/02.png">
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    Once your video is in the media pool, simply drag and drop it to the timeline below. Switch over to the <b>Edit</b> tab on the bottom. This is the screen we will be working on to sub!
+  </p>
+  <img style='max-width: 100%; width: 38vw; min-width: 330px; height: auto; padding-bottom: 3rem;' src="static/img/srt-tutorial/04.png">
+
+  <h4 class='subheader d-flex align-items-center'>
+    <span>Step 2: Subtitling</span>
+  </h4>
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    Right click on this section above Video 1, and click <b>Add Subtitle Track</b>. You can now right click anywhere on the subtitle timeline to <b>Add Subtitles</b>!
+  </p>
+  <img style='max-width: 100%; width: 38vw; min-width: 330px; height: auto; padding-bottom: 2rem;' src="static/img/srt-tutorial/05.png">
+
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    When you click a subtitle block, you will see this section on the right side of your screen, where you can freely input the text for your subtitles. The regular timeline functions work as well, so you can easily drag and adjust the timing of your subtitles on the timeline.
+  </p>
+  <img style='max-width: 100%; width: 28vw; min-width: 330px; height: auto; padding-bottom: 2rem;' src="static/img/srt-tutorial/06.png">
+
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    In the next tab, there is the styling of the subtitles. It is important to change the font face from the default of semibold to <b>regular</b>, so that bold tags do not appear in the exported .srt file. It is <i>recommeded but not compulsory</i> to switch on the background so you can better see the subtitles while subbing (it will look most similar to the way it's displayed on the site).
+  </p>
+  <img style='max-width: 100%; width: 28vw; min-width: 330px; height: auto; padding-bottom: 2rem;' src="static/img/srt-tutorial/07.png">
+
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    Some useful shortcuts are <b>A</b>, which is the regular selection tool you can use to drag stuff around, and <b>B</b> which is the blade tool to slice the subtitle blocks. The <b>snapping</b> & <b>position lock</b> on/off toggles may also be essential to your subtitling process.
+  </p>
+  <img style='max-width: 100%; width: 38vw; min-width: 330px; height: auto; padding-bottom: 3rem;' src="static/img/srt-tutorial/08.png">
+
+  <h4 class='subheader d-flex align-items-center'>
+    <span>Step 3: Exporting</span>
+  </h4>
+  <p style='padding: 1rem; padding-bottom: 0.5rem; font-size: 1rem; width: 40vw;  min-width: 330px; text-align: left;'>
+    The same way you created the subtitle timeline, right click the subtitle track area (not the timeline) and select <b>Export Subtitle...</b>. Save the .srt file to your desired location and you're done!
+  </p>
+  <img style='max-width: 100%; width: 38vw; min-width: 330px; height: auto; padding-bottom: 3rem;' src="static/img/srt-tutorial/09.png">
+</div>
