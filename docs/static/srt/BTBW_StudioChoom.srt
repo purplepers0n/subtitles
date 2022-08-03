@@ -1,0 +1,453 @@
+﻿1
+00:00:03,220 --> 00:00:06,223
+JUNKI:
+ Born to be wild
+
+2
+00:00:06,223 --> 00:00:08,125
+Break the wall, get get get you want
+
+3
+00:00:08,125 --> 00:00:10,060
+Break the door, get get get you want
+
+4
+00:00:10,060 --> 00:00:12,562
+Break the fear, get get get you want
+
+5
+00:00:13,497 --> 00:00:17,501
+MAME:
+ Daremo inai
+ [Nobody is here]
+
+6
+00:00:17,501 --> 00:00:21,405
+MAME:
+ Kimi to futari michi wo yuku
+ [Heading into the unknown with you]
+
+7
+00:00:21,405 --> 00:00:30,647
+SUKAI:
+ Minarenai subete ni mune ga takanaru no wa
+ [My heart beats fast at all the unfamiliar sights]
+
+8
+00:00:30,881 --> 00:00:35,519
+JUNKI:
+ Dare hitori koko ni tadoritsukenai kara
+ [Nobody can reach this place alone]
+
+9
+00:00:35,519 --> 00:00:38,755
+RUKI:
+ Keep on running, keep on driving, yeah
+
+10
+00:00:38,755 --> 00:00:40,924
+KEIGO:
+ Te wo hanasanaide
+ [Don’t let go of my hand]
+
+11
+00:00:40,924 --> 00:00:42,793
+KEIGO:
+ Tsuyoku nigittete
+ [Grasp it firmly]
+
+12
+00:00:42,793 --> 00:00:44,127
+SHION:
+ Ano kabe wo koe swerve
+ [Surpass that wall and swerve]
+
+13
+00:00:44,127 --> 00:00:45,562
+SHION:
+ Let's ride, la-la-like piyong
+
+14
+00:00:45,562 --> 00:00:47,430
+SHO:
+ Tsuzuku highway
+ [Down the highway]
+
+15
+00:00:47,430 --> 00:00:53,403
+SHO:
+ Osore no saki ni nanika ga mitsukaru darou
+ [We'll surely find something beyond the fear]
+
+16
+00:00:53,403 --> 00:00:55,539
+JUNKI:
+ Kitto paradise
+ [Surely it's paradise]
+
+17
+00:00:55,539 --> 00:00:58,442
+JUNKI:
+ Door no sukima hikari sasu
+ [Light shines through a crack in the door]
+
+18
+00:00:58,442 --> 00:01:02,446
+JUNKI:
+ Te no hira ni key of new world
+ [In our hand is a key to the new world]
+
+19
+00:01:02,446 --> 00:01:06,416
+TAKUMI:
+ Mada minu basho e, turn turn turn it on
+ [To the place we’ve never seen before, turn turn turn it on]
+
+20
+00:01:06,416 --> 00:01:10,454
+TAKUMI:
+ Honoo no you ni, burn burn burn it up
+ [Like a flame, burn burn burn it up]
+
+21
+00:01:10,454 --> 00:01:14,791
+SUKAI:
+ Me ga sameta nara tsukisusumu toki nan da
+ [If you’ve awakened, then it’s time to push on]
+
+22
+00:01:14,791 --> 00:01:16,393
+RUKI:
+ Umarekawaru ima
+ [We’re reborn now]
+
+23
+00:01:16,393 --> 00:01:17,594
+RUKI:
+ I’m living brand new life, woo
+
+24
+00:01:17,594 --> 00:01:18,195
+JUNKI:
+ Born to be wild
+RUKI:
+ I’m living brand new life, woo
+
+25
+00:01:18,195 --> 00:01:20,397
+JUNKI:
+ Born to be wild
+
+26
+00:01:20,397 --> 00:01:25,402
+REN:
+ Harahara suru reality, yureru fantasy
+ [Nervous reality, wavering fantasy]
+
+27
+00:01:25,402 --> 00:01:28,271
+JUNKI:
+ Born to be wild
+
+28
+00:01:28,271 --> 00:01:33,910
+SHO:
+ Tonari ni kimi gravity tashikana energy
+ [You’re next to me, your gravity a definite energy]
+
+29
+00:01:33,910 --> 00:01:37,547
+SHOSEI:
+ Tobira hirakeba subete no shibari kara kaihou
+ [If you open the door, you’ll be freed from all your bonds]
+
+30
+00:01:37,547 --> 00:01:39,950
+SYOYA:
+ Senhiki no nai hiru to yoru
+ [There’s no distinction between day and night]
+
+31
+00:01:39,950 --> 00:01:41,952
+SYOYA:
+ Ano hi sunda hitomi
+ [The day your eyes became clear]
+
+32
+00:01:41,952 --> 00:01:44,521
+SYOYA, SHION:
+ Koe hisome miageta sora takaku
+ [Quietly, you looked up at the sky]
+
+33
+00:01:44,521 --> 00:01:45,922
+SHION:
+ Ima, I'm on my way up
+ [Right now I’m on my way up]
+
+34
+00:01:45,922 --> 00:01:49,593
+SHION:
+ Moshi kako ni modottemo kurikaeshi onaji michi erabu darou
+ [Even if I could go back and start over, I’d surely choose the same path]
+
+35
+00:01:49,593 --> 00:01:51,561
+SHION:
+ I could fall or I could fly
+
+36
+00:01:51,561 --> 00:01:53,497
+MAME:
+ Tsuzuku highway
+ [Down the highway]
+
+37
+00:01:53,497 --> 00:01:59,469
+MAME:
+ Osore no saki ni nanika ga mitsukaru darou
+ [We'll surely find something beyond the fear]
+
+38
+00:01:59,469 --> 00:02:01,571
+JUNKI:
+ Kitto paradise
+ [Surely it's paradise]
+
+39
+00:02:01,571 --> 00:02:04,641
+JUNKI:
+ Door no sukima hikari sasu
+ [Light shines through a crack in the door]
+
+40
+00:02:04,641 --> 00:02:08,411
+JUNKI:
+ Te no hira ni key of new world
+ [In our hand is a key to the new world]
+
+41
+00:02:08,411 --> 00:02:10,213
+REN:
+ Mada minu basho e
+ [To the place we’ve never seen before]
+
+42
+00:02:10,213 --> 00:02:12,382
+REN:
+ Turn turn turn it on
+
+43
+00:02:12,382 --> 00:02:14,184
+REN:
+ Honoo no you ni
+ [Like a flame]
+
+44
+00:02:14,184 --> 00:02:16,419
+REN:
+ Burn burn burn it up
+
+45
+00:02:16,419 --> 00:02:18,388
+SUKAI:
+ Me ga sameta nara
+ [If you’ve awakened, then it’s time to push on]
+
+46
+00:02:18,388 --> 00:02:20,757
+SUKAI:
+ Tsukisusumu toki nan da
+ [If you’ve awakened, then it’s time to push on]
+
+47
+00:02:20,757 --> 00:02:22,392
+SHOSEI:
+ Umarekawaru ima
+ [We’re reborn now]
+
+48
+00:02:22,392 --> 00:02:23,560
+SHOSEI:
+ I’m living brand new life, woo
+
+49
+00:02:23,560 --> 00:02:26,329
+REN:
+ Born to be wild
+
+50
+00:02:26,329 --> 00:02:30,534
+TAKUMI:
+ Harahara suru reality, yureru fantasy
+ [Nervous reality, wavering fantasy]
+
+51
+00:02:30,534 --> 00:02:31,501
+REN:
+ Fantasy
+
+52
+00:02:31,501 --> 00:02:31,935
+JUNKI:
+ Born to be wild
+REN:
+ Fantasy
+
+53
+00:02:31,935 --> 00:02:34,337
+JUNKI:
+ Born to be wild
+
+54
+00:02:34,337 --> 00:02:39,276
+KEIGO:
+ Tonari ni kimi gravity tashikana energy
+ [You’re next to me, your gravity a definite energy]
+
+55
+00:02:39,876 --> 00:02:41,878
+Break the wall, get get get you want
+
+56
+00:02:42,045 --> 00:02:43,914
+Break the door, get get get you want
+
+57
+00:02:44,114 --> 00:02:45,982
+Break the fear, get get get you want
+
+58
+00:02:45,982 --> 00:02:48,218
+JUNKI:
+ It's key of new world
+
+59
+00:02:48,218 --> 00:02:49,953
+Break the wall, get get get you want
+
+60
+00:02:49,953 --> 00:02:51,988
+Break the door, get get get you want
+
+61
+00:02:51,988 --> 00:02:53,990
+Break the fear, get get get you want
+
+62
+00:02:53,990 --> 00:02:56,393
+It's key of new world
+
+63
+00:02:56,393 --> 00:03:00,430
+RUKI:
+ Mou nanimo kowakunai sa
+ [I don't fear anything anymore]
+
+64
+00:03:00,430 --> 00:03:04,467
+MAME:
+ Bokura onaji mirai megake
+ [We're aiming for the same future]
+
+65
+00:03:04,467 --> 00:03:08,939
+SHO:
+ Ikun da tomaranai yo
+ [Let's go, we won't stop]
+
+66
+00:03:08,939 --> 00:03:11,775
+SYOYA:
+ Nigirishimeta master key ima tobira wa hiraku, hoo
+ [Open the door now with the masterkey you hold, hoo]
+
+67
+00:03:11,775 --> 00:03:12,209
+REN:
+ Born to be wild
+SYOYA:
+ Nigirishimeta master key ima tobira wa hiraku, hoo
+ [Open the door now with the masterkey you hold, hoo]
+
+68
+00:03:12,209 --> 00:03:14,377
+REN:
+ Born to be wild
+
+69
+00:03:14,377 --> 00:03:18,548
+TAKUMI:
+ Harahara suru reality, yureru fantasy
+ [Nervous reality, wavering fantasy]
+
+70
+00:03:18,548 --> 00:03:18,848
+REN:
+ Fantasy
+TAKUMI:
+ Harahara suru reality, yureru fantasy
+ [Nervous reality, wavering fantasy]
+
+71
+00:03:18,848 --> 00:03:19,382
+REN:
+ Fantasy
+
+72
+00:03:19,382 --> 00:03:20,317
+JUNKI:
+ Born to be wild
+REN:
+ Fantasy
+
+73
+00:03:20,317 --> 00:03:22,219
+JUNKI:
+ Born to be wild
+
+74
+00:03:22,219 --> 00:03:27,858
+KEIGO:
+ Tonari ni kimi gravity tashikana energy
+ [You’re next to me, your gravity a definite energy]
+
+75
+00:03:27,858 --> 00:03:30,026
+Break the wall, get get get you want
+
+76
+00:03:30,227 --> 00:03:31,828
+Break the door, get get get you want
+
+77
+00:03:31,928 --> 00:03:33,897
+Break the fear, get get get you want
+
+78
+00:03:33,897 --> 00:03:36,032
+JUNKI:
+ It's key of new world
+
+79
+00:03:36,032 --> 00:03:37,934
+Break the wall, get get get you want
+
+80
+00:03:37,968 --> 00:03:39,869
+Break the door, get get get you want
+
+81
+00:03:39,970 --> 00:03:41,938
+Break the fear, get get get you want
+
+82
+00:03:41,938 --> 00:03:45,208
+JUNKI:
+ It's key of new world
+
+83
+00:03:46,409 --> 00:03:54,250
+[Translation by @motto_yomitai, 
+timing & formatting by @BerryMagic_]
+
