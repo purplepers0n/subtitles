@@ -892,7 +892,7 @@ Here it is
 
 220
 00:11:00,926 --> 00:11:01,961
-The first plant
+The first plant design
 
 221
 00:11:04,096 --> 00:11:07,700
