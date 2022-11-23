@@ -1,6 +1,8 @@
 ﻿1
-00:00:00,000 --> 00:00:00,000
-Mountain and sea travel programs
+00:00:00,000 --> 00:00:04,000
+Trans: Verde (@1DERJAM) 
+Timing: Na (@delishriceball)
+Quality Check: Na (@delishriceball), Verde (@1DERJAM)
 
 2
 00:00:21,170 --> 00:00:23,270
@@ -4618,7 +4620,7 @@ We're going to play a game
 
 1084
 00:46:06,880 --> 00:46:08,880
-And the winnder gets all the money
+And the winner gets all the money
 [Joy and despair cross]
 
 1085
@@ -5333,7 +5335,7 @@ You got money?
 1252
 00:52:53,980 --> 00:52:55,080
 It's smelly
-[Picking anchovy poops] 
+[Picking anchovy poops]
 [BEST-O1 does everything they are asked to do]
 
 1253
