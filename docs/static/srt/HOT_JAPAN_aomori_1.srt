@@ -13,11 +13,11 @@ We're getting closer to a point of no return.
 4
 00:00:20,754 --> 00:00:22,336
 Tsurubo Shion is going wild.
-[Oirase Valley Frozen Waterfall]
+[Oirase Valley Ice Falls]
 
 5
 00:00:22,336 --> 00:00:23,589
-[Oirase Valley Frozen Waterfall]
+[Oirase Valley Ice Falls]
 
 6
 00:00:23,589 --> 00:00:26,284
@@ -120,7 +120,7 @@ You can wear snow shoes to enter.
 
 30
 00:01:25,652 --> 00:01:27,672
-[They can enter Oirase Gorge
+[They can enter Oirase Stream
 which is a special scenic spot/natural conservation area]
 
 31
@@ -824,4 +824,3 @@ Thank you very much!
 198
 00:11:37,761 --> 00:11:39,340
 It was really fun.
-
